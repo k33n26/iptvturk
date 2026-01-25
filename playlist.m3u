@@ -253,3 +253,5 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/chunks.m3u8?nimblesessi
 https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="AVRUPA TV",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:-1 tvg-name="EURO-D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="AVRUPA TV",EURO-D
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8

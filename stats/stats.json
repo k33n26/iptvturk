@@ -1,5 +1,5 @@
 {
-  "total_channels": 127,
+  "total_channels": 128,
   "groups": {
     "ULUSAL TV": 27,
     "BELGESEL TV": 6,
@@ -9,7 +9,7 @@
     "YASAM TV": 9,
     "SINEMA-DIZI TV": 3,
     "MUZIK TV": 12,
-    "AVRUPA TV": 1
+    "AVRUPA TV": 2
   },
-  "last_update": "2026-01-25 13:52:54 UTC"
+  "last_update": "2026-01-25 13:57:37 UTC"
 }
