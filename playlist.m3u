@@ -57,6 +57,10 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 https://edge.socialsmart.tv/naturaltv/bant1/chunks.m3u8?nimblesessionid=1197801250
 #EXTINF:-1 tvg-name="TRT BELGESEL 2K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="BELGESEL TV",TRT BELGESEL 2K
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 tvg-name="NAT-GEO-CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="BELGESEL TV",NAT-GEO-CHANNEL
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-name="NAT-GEO-WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="BELGESEL TV",NAT-GEO-WILD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="BELGESEL TV",DMAX
 https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://r2.theaudiodb.com/images/media/artist/thumb/rsxstu1364943742.jpg" group-title="BELGESEL TV",TLC
@@ -69,6 +73,12 @@ https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8?nimblesessionid=2120961891
 #EXTINF:-1 tvg-name="Tarım-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="BELGESEL TV",Tarım-TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
+#EXTINF:-1 tvg-name="SOMINE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="BELGESEL TV",SOMINE-TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Somine_TV.m3u8
+#EXTINF:-1 tvg-name="YAZ-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="BELGESEL TV",YAZ-TV
+https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist/2.m3u8
+#EXTINF:-1 tvg-name="TGRT-BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="BELGESEL TV",TGRT-BELGESEL
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1 tvg-name="CNN-TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="HABER TV",CNN-TURK
 https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="HABER TV",NTV
