@@ -103,6 +103,8 @@ https://a8.radyotelekom.com.tr:3976/stream/play.m3u8
 http://162.212.179.32/akamaissh101/ssh101/084952510aaa/playlist.m3u8
 #EXTINF:-1 group-title="sinema dizi",BONCUK TV
 http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
+#EXTINF:-1 group-title="sinema dizi",DIZIMAX
+http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="spor",SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="spor",TJK TV
