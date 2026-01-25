@@ -1,11 +1,16 @@
 name: Update IPTV Playlist
 
 on:
+  # TXT veya script değişince otomatik çalışır
   push:
     paths:
       - "lists/*.txt"
       - "scripts/*.py"
 
+  # 👇 BU SAYEDE "RUN WORKFLOW" BUTONU ÇIKAR
+  workflow_dispatch:
+
+# GitHub Actions'ın repoya yazabilmesi için
 permissions:
   contents: write
 
@@ -14,20 +19,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
-      - run: |
+      - name: Build playlist
+        run: |
           python scripts/build_playlist.py
           python scripts/build_stats.py
           python scripts/update_readme.py
 
-      - run: |
+      - name: Commit and push changes
+        run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add playlist.m3u cache/logos.json stats/stats.json README.md
