@@ -123,6 +123,8 @@ https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="ulusal",TRT WORLD FHD
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="ulusal",MECLIS-TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 group-title="ulusal",STAR
 https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star.m3u8
 #EXTINF:-1 group-title="ulusal",SHOW TV
