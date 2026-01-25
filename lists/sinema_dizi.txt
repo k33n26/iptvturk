@@ -1,5 +1,5 @@
 BIZIMKILER,http://87.121.104.29:145/trtnostalji/stream.m3u8
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 GRAND SINEMA,https://gcinemahls.wns.live/hls/stream.m3u8
-DENIZPOSTASI TV,https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8?nimblesessionid=2120964307
-Tivi 6,https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8?nimblesessionid=2121289716
+DENIZPOSTASI TV,https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+Tivi 6,https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
