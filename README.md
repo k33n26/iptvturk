@@ -3,11 +3,12 @@
 ![Toplam Kanal](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/k33n26/iptvturk/main/stats/stats.json&query=$.total&label=Toplam%20Kanal)
 
 🔗 Playlist  
-https://cdn.jsdelivr.net/gh/k33n26/iptvturk@main/playlist.m3u
+https://cdn.jsdelivr.net/gh/k33n26/iptvturk@v1.0.0/playlist.m3u
 
 <!-- STATS-START -->
 - **Toplam Kanal:** **135**
-- **Son Güncelleme:** `2026-01-25 17:51:23 (TR)`
+- **Son Güncelleme:** `2026-01-25 17:51:57 (TR)`
+- **Sürüm:** `v1.0.0`
 
 | Grup | Kanal | Değişim |
 |------|-------|---------|
