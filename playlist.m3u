@@ -73,8 +73,6 @@ https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8?nimblesessionid=2120961891
 #EXTINF:-1 tvg-name="Tarım-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="BELGESEL TV",Tarım-TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
-#EXTINF:-1 tvg-name="SOMINE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="BELGESEL TV",SOMINE-TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Somine_TV.m3u8
 #EXTINF:-1 tvg-name="YAZ-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="BELGESEL TV",YAZ-TV
 https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist/2.m3u8
 #EXTINF:-1 tvg-name="TGRT-BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="BELGESEL TV",TGRT-BELGESEL
