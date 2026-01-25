@@ -1,9 +1,24 @@
 # 📺 IPTV Türk Playlist
 
 🔗 **Playlist (LATEST)**  
-https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
+https://cdn.jsdelivr.net/gh/k33n26/iptvturk@v1.0.3/playlist.m3u
 
 <!-- STATS-START -->
+- **Toplam Kanal:** **135**
+- **Son Güncelleme:** `2026-01-25 18:07:11 (TR)`
+- **Sürüm:** `v1.0.3`
+
+| Grup | Kanal | Değişim |
+|------|-------|---------|
+| spor | 3 | — |
+| sinema dizi | 3 | — |
+| yerel | 50 | — |
+| yasam | 9 | — |
+| muzik | 12 | — |
+| ulusal | 28 | — |
+| haber | 16 | — |
+| belgesel | 11 | — |
+| avrupa | 3 | — |
 <!-- STATS-END -->
 
 ## 📈 Kanal Dağılımı
