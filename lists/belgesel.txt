@@ -1,0 +1,7 @@
+TRT BELGESEL 2K,https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
+DMAX,https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
+TLC,https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/tlc.m3u8
+CGTN DOCUMENTARY,https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
+GZT,https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
+CİFTCİ TV,https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8?nimblesessionid=2120961891
+
