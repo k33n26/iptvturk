@@ -1,15 +1,15 @@
 {
   "total_channels": 128,
   "groups": {
-    "ULUSAL TV": 27,
-    "BELGESEL TV": 6,
-    "HABER TV": 16,
-    "YEREL TV": 50,
-    "SPOR TV": 3,
-    "YASAM TV": 9,
-    "SINEMA-DIZI TV": 3,
-    "MUZIK TV": 12,
-    "AVRUPA TV": 2
+    "AVRUPA": 2,
+    "BELGESEL": 6,
+    "HABER": 16,
+    "MUZIK": 12,
+    "SINEMA DIZI": 3,
+    "SPOR": 3,
+    "ULUSAL": 27,
+    "YASAM": 9,
+    "YEREL": 50
   },
-  "last_update": "2026-01-25 13:57:37 UTC"
+  "last_update": "2026-01-25 14:00:07 UTC"
 }
