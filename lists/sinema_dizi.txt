@@ -1,5 +1,6 @@
 BIZIMKILER,http://87.121.104.29:145/trtnostalji/stream.m3u8
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+FILM-SCREEN,https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 GRAND SINEMA,https://gcinemahls.wns.live/hls/stream.m3u8
 DENIZPOSTASI TV,https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 Tivi 6,https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
@@ -10,3 +11,13 @@ Fusion Turk,http://162.212.179.32/akamaissh101/ssh101/084952510aaa/playlist.m3u8
 BONCUK TV,http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 DIZIMAX,http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
 TABII-TV,https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+HTV,https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
+SDM-SINEMA,https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+TV BEGEN,https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+ISVICRE-TV,https://i41.ozelip.com:3269/hybrid/play.m3u8
+AKTIF-TV,https://ip100.radyotelekomtv.com:3438/stream/play.m3u8
+VIYANA-TV,http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+PLAY-TV,https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+BALKAN-TURK,http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
+HOCWAN-TV,https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
+YANSIMA-SINEMA,http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
