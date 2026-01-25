@@ -87,6 +87,8 @@ https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
 http://87.121.104.29:145/trtnostalji/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",FILM-SCREEN
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 group-title="sinema dizi",GRAND SINEMA
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",DENIZPOSTASI TV
@@ -107,6 +109,26 @@ http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="sinema dizi",TABII-TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+#EXTINF:-1 group-title="sinema dizi",HTV
+https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
+#EXTINF:-1 group-title="sinema dizi",SDM-SINEMA
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="sinema dizi",TV BEGEN
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1 group-title="sinema dizi",ISVICRE-TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 group-title="sinema dizi",AKTIF-TV
+https://ip100.radyotelekomtv.com:3438/stream/play.m3u8
+#EXTINF:-1 group-title="sinema dizi",VIYANA-TV
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1 group-title="sinema dizi",PLAY-TV
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-1 group-title="sinema dizi",BALKAN-TURK
+http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="sinema dizi",HOCWAN-TV
+https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
+#EXTINF:-1 group-title="sinema dizi",YANSIMA-SINEMA
+http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 #EXTINF:-1 group-title="spor",SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="spor",TJK TV
