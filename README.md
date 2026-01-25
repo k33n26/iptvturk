@@ -9,7 +9,7 @@ https://cdn.jsdelivr.net/gh/k33n26/iptvturk@main/playlist.m3u
 ## 📊 Kanal İstatistikleri
 
 - **Toplam Kanal:** **130**
-- **Son Güncelleme:** `2026-01-25 14:10:05 UTC`
+- **Son Güncelleme:** `2026-01-25 17:12:28 UTC+3`
 
 | Grup | Kanal Sayısı |
 |------|---------------|
