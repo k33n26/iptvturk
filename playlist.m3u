@@ -39,6 +39,8 @@ https://dsmartgo-live.ercdn.net/dsmartgo/kanald/kanald.isml/kanald.m3u8
 https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/atv.m3u8
 #EXTINF:-1 tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="ULUSAL TV",TV8
 https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
+#EXTINF:-1 tvg-name="TV-8-BUCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="ULUSAL TV",TV-8-BUCUK
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 #EXTINF:-1 tvg-name="Tv2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="ULUSAL TV",Tv2
 https://dsmartgo-live.ercdn.net/dsmartgo/teve2/teve2.isml/teve2.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://r2.theaudiodb.com/images/media/artist/thumb/rsxstu1364943742.jpg" group-title="ULUSAL TV",TLC

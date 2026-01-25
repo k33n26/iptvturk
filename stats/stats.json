@@ -1,5 +1,5 @@
 {
-  "total_channels": 129,
+  "total_channels": 130,
   "groups": {
     "AVRUPA": 3,
     "BELGESEL": 6,
@@ -7,9 +7,9 @@
     "MUZIK": 12,
     "SINEMA DIZI": 3,
     "SPOR": 3,
-    "ULUSAL": 27,
+    "ULUSAL": 28,
     "YASAM": 9,
     "YEREL": 50
   },
-  "last_update": "2026-01-25 14:06:41 UTC"
+  "last_update": "2026-01-25 14:10:05 UTC"
 }
