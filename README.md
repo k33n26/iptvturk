@@ -4,7 +4,7 @@
 https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
 
 <!-- STATS-START -->
-- **Toplam Kanal:** **135** | **Sürüm:** `v1.0.4` | **Commit:** `e150b4e` | **Güncelleme:** `2026-01-25 18:09:06 (TR)`
+- **Toplam Kanal:** **135** | **Sürüm:** `v1.0.5` | **Commit:** `e1a2f04` | **Güncelleme:** `2026-01-25 18:09:30 (TR)`
 
 ### spor
 | Kanal | Ülke | Tür | Logo |
