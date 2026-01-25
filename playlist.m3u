@@ -93,6 +93,16 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1 group-title="sinema dizi",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 group-title="sinema dizi",ARTI-TV
+http://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="sinema dizi",Fusion TV
+http://162.212.179.32/akamaissh101/ssh101/084952510aa/playlist.m3u8
+#EXTINF:-1 group-title="sinema dizi",Fusion 2 TV
+https://a8.radyotelekom.com.tr:3976/stream/play.m3u8
+#EXTINF:-1 group-title="sinema dizi",Fusion Turk
+http://162.212.179.32/akamaissh101/ssh101/084952510aaa/playlist.m3u8
+#EXTINF:-1 group-title="sinema dizi",BONCUK TV
+http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 #EXTINF:-1 group-title="spor",SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="spor",TJK TV
