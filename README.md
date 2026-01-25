@@ -1,12 +1,12 @@
 # 📺 IPTV Türk Playlist
 
 🔗 **Playlist (SON SÜRÜM)**  
-https://cdn.jsdelivr.net/gh/k33n26/iptvturk@v1.0.1/playlist.m3u
+https://cdn.jsdelivr.net/gh/k33n26/iptvturk@v1.0.2/playlist.m3u
 
 <!-- STATS-START -->
 - **Toplam Kanal:** **135**
-- **Son Güncelleme:** `2026-01-25 17:53:26 (TR)`
-- **Sürüm:** `v1.0.1`
+- **Son Güncelleme:** `2026-01-25 18:06:31 (TR)`
+- **Sürüm:** `v1.0.2`
 
 | Grup | Kanal | Değişim |
 |------|-------|---------|
