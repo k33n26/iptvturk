@@ -85,6 +85,8 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/chunks.m3u8?nimblesessi
 https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="sinema dizi",BIZIMKILER
 http://87.121.104.29:145/trtnostalji/stream.m3u8
+#EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",GRAND SINEMA
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",DENIZPOSTASI TV
