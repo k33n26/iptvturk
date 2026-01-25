@@ -18,6 +18,7 @@ NOW,https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv.m3u8
 KANAL D,https://dsmartgo-live.ercdn.net/dsmartgo/kanald/kanald.isml/kanald.m3u8
 ATV,https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/atv.m3u8
 TV8,https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
+TV-8-BUCUK,https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 Tv2,https://dsmartgo-live.ercdn.net/dsmartgo/teve2/teve2.isml/teve2.m3u8
 TLC,https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/tlc.m3u8
 CNBC-E,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e_1080p.m3u8
