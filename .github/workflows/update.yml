@@ -8,23 +8,35 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - run: pip install requests matplotlib pillow
 
-      - run: |
+      - name: Build playlist & stats
+        run: |
           python scripts/build_playlist.py
           python scripts/build_stats.py
           python scripts/build_chart.py
+          python scripts/bump_version.py
           python scripts/update_readme.py
 
-      - run: |
+      - name: Commit & Tag
+        run: |
+          VERSION=$(cat VERSION.txt)
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add .
-          git commit -m "auto update" || true
+          git commit -m "auto update v$VERSION" || true
+          git tag v$VERSION
           git push
+          git push --tags
+
+      - name: Purge jsDelivr cache
+        run: |
+          curl -X GET https://purge.jsdelivr.net/gh/k33n26/iptvturk@v$(cat VERSION.txt)/playlist.m3u
