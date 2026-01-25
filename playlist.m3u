@@ -158,7 +158,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 group-title="ulusal",AFROTURK TV
 https://edge.socialsmart.tv/naturaltv/bant1/chunks.m3u8?nimblesessionid=1197801250
 #EXTINF:-1 group-title="yasam",FORTUNA TV
-https://edge.socialsmart.tv/ftvturk/bant1/chunks.m3u8?nimblesessionid=1197731599
+https://edge.socialsmart.tv/ftvturk/bant1/chunks.m3u8
 #EXTINF:-1 group-title="yasam",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_0.m3u8
 #EXTINF:-1 group-title="yasam",DOST TV
@@ -174,7 +174,7 @@ https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:-1 group-title="yasam",VAV TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="yasam",DIYAR TV
-https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8?nimblesessionid=2121416270
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8
 #EXTINF:-1 group-title="yerel",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 #EXTINF:-1 group-title="yerel",CAY TV

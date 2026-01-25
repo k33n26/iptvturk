@@ -14,6 +14,6 @@ https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
 - 📺 **spor**: 3 kanal
 - 📺 **avrupa**: 3 kanal
 
-Güncelleme: `2026-01-25 21:15:54 (TR)`
+Güncelleme: `2026-01-25 21:17:08 (TR)`
 Toplam Kanal: **138**
 <!-- STATS-END -->
