@@ -14,6 +14,6 @@ https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
 - 📺 **sinema dizi**: 3 kanal
 - 📺 **avrupa**: 3 kanal
 
-Güncelleme: `2026-01-25 20:37:50 (TR)`
+Güncelleme: `2026-01-25 20:38:03 (TR)`
 Toplam Kanal: **135**
 <!-- STATS-END -->
