@@ -8,13 +8,13 @@ https://cdn.jsdelivr.net/gh/k33n26/iptvturk@main/playlist.m3u
 <!-- STATS-START -->
 ## 📊 Kanal İstatistikleri
 
-- **Toplam Kanal:** **130**
-- **Son Güncelleme:** `2026-01-25 17:12:28 UTC+3`
+- **Toplam Kanal:** **131**
+- **Son Güncelleme:** `2026-01-25 17:14:16 UTC+3`
 
 | Grup | Kanal Sayısı |
 |------|---------------|
 | AVRUPA | 3 |
-| BELGESEL | 6 |
+| BELGESEL | 7 |
 | HABER | 16 |
 | MUZIK | 12 |
 | SINEMA DIZI | 3 |
