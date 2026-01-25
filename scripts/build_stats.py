@@ -1,44 +1,29 @@
-import os
-import json
-from datetime import datetime, timezone, timedelta
+import os, json
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
-LISTS_DIR = "lists"
-OUTPUT_JSON = "stats/stats.json"
-
+LISTS = "lists"
 os.makedirs("stats", exist_ok=True)
 
-# UTC+3 (Türkiye saati)
-TR_TZ = timezone(timedelta(hours=3))
+tz = ZoneInfo("Europe/Istanbul")
+now = datetime.now(tz).strftime("%Y-%m-%d %H:%M:%S (TR)")
 
-now_tr = datetime.now(TR_TZ).strftime("%Y-%m-%d %H:%M:%S UTC+3")
+stats = {"total": 0, "groups": {}, "diff": {}, "updated": now}
+prev = {}
 
-stats = {
-    "total_channels": 0,
-    "groups": {},
-    "last_update": now_tr
-}
+if os.path.exists("stats/prev.json"):
+    prev = json.load(open("stats/prev.json"))["groups"]
 
-def filename_to_group(name):
-    name = name.replace(".txt", "")
-    name = name.replace("_", " ")
-    return name.upper()
-
-for file in sorted(os.listdir(LISTS_DIR)):
-    if not file.endswith(".txt"):
+for f in os.listdir(LISTS):
+    if not f.endswith(".txt"):
         continue
+    g = f.replace(".txt", "").replace("_", " ")
+    c = sum(1 for l in open(f"{LISTS}/{f}", encoding="utf-8") if "," in l)
+    stats["groups"][g] = c
+    stats["diff"][g] = c - prev.get(g, 0)
+    stats["total"] += c
 
-    path = os.path.join(LISTS_DIR, file)
-    group_name = filename_to_group(file)
-    count = 0
-
-    with open(path, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if line and "," in line:
-                count += 1
-
-    stats["groups"][group_name] = count
-    stats["total_channels"] += count
-
-with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-    json.dump(stats, f, indent=2, ensure_ascii=False)
+json.dump(stats, open("stats/stats.json", "w", encoding="utf-8"),
+          indent=2, ensure_ascii=False)
+json.dump(stats, open("stats/prev.json", "w", encoding="utf-8"),
+          indent=2, ensure_ascii=False)
