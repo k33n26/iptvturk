@@ -1,39 +1,38 @@
-import json, re, subprocess
-from datetime import datetime
-from zoneinfo import ZoneInfo
-from logo_resolver import get_logo
+import json, re
+
+# İkonlar her grup için (istediğin emoji ile değiştirebilirsin)
+ICONS = {
+    "ULUSAL TV": "🇹🇷",
+    "BELGESEL TV": "📚",
+    "HABER TV": "📰",
+    "YEREL TV": "🏘️",
+    "SPOR TV": "⚽",
+    "YASAM TV": "🏡",
+    "SINEMA-DIZI TV": "🎬",
+    "MUZIK TV": "🎵",
+    "AVRUPA TV": "🌍"
+}
 
 stats = json.load(open("stats/stats.json", encoding="utf-8"))
 
-tz = ZoneInfo("Europe/Istanbul")
-updated = stats["updated"]
-commit_hash = subprocess.getoutput("git rev-parse --short HEAD")
-version = open("VERSION.txt").read().strip()
+# Kanal sayısına göre büyükten küçüğe sıralı
+sorted_groups = sorted(stats["groups"].items(), key=lambda x: x[1], reverse=True)
+lines = []
+for g, c in sorted_groups:
+    icon = ICONS.get(g, "📺")
+    lines.append(f"- {icon} **{g}**: {c} kanal")
 
-# Her grup için tablo
-groups = {}
-for c in stats["channels"]:
-    g = c["group"]
-    if g not in groups:
-        groups[g] = []
-    groups[g].append(c)
+lines.append(f"\nGüncelleme: `{stats['updated']}`")
+lines.append(f"Toplam Kanal: **{stats['total']}**")
 
-table_blocks = []
-for group, channels in groups.items():
-    table_blocks.append(f"### {group}\n| Kanal | Ülke | Tür | Logo |")
-    table_blocks.append("|------|------|-----|------|")
-    for c in channels:
-        logo = get_logo(c["name"])
-        table_blocks.append(f'| {c["name"]} | {c["country"]} | {c["type"]} | <img src="{logo}" width="32"/> |')
-    table_blocks.append(f"![{group} grafiği](stats/charts/{group}.png)\n")
-
-block = f"- **Toplam Kanal:** **{stats['total']}** | **Sürüm:** `v{version}` | **Commit:** `{commit_hash}` | **Güncelleme:** `{updated}`\n\n" + "\n".join(table_blocks)
+block = "\n".join(lines)
 
 readme = open("README.md", encoding="utf-8").read()
 readme = re.sub(
     r"<!-- STATS-START -->(.*?)<!-- STATS-END -->",
     f"<!-- STATS-START -->\n{block}\n<!-- STATS-END -->",
-    readme, flags=re.S
+    readme,
+    flags=re.S
 )
 
 # Playlist latest link
@@ -43,4 +42,4 @@ readme = re.sub(
     readme
 )
 
-open("README.md","w",encoding="utf-8").write(readme)
+open("README.md", "w", encoding="utf-8").write(readme)
