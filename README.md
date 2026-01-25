@@ -6,6 +6,20 @@
 https://cdn.jsdelivr.net/gh/k33n26/iptvturk@main/playlist.m3u
 
 <!-- STATS-START -->
+- **Toplam Kanal:** **135**
+- **Son Güncelleme:** `2026-01-25 17:41:29 (TR)`
+
+| Grup | Kanal | Değişim |
+|------|-------|---------|
+| spor | 3 | ▲ +3 |
+| sinema dizi | 3 | ▲ +3 |
+| yerel | 50 | ▲ +50 |
+| yasam | 9 | ▲ +9 |
+| muzik | 12 | ▲ +12 |
+| ulusal | 28 | ▲ +28 |
+| haber | 16 | ▲ +16 |
+| belgesel | 11 | ▲ +11 |
+| avrupa | 3 | ▲ +3 |
 <!-- STATS-END -->
 
 ## 📈 Kanal Dağılımı
