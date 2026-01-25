@@ -26,4 +26,4 @@ CNBC-E,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e_1080p.m3u8
 BLOOMBERG-HT,https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
 KANAL 7,https://dsmartgo-live.ercdn.net/dsmartgo/kanal7/kanal7.isml/kanal7.m3u8
 360 TV,https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-AFROTURK TV,https://edge.socialsmart.tv/naturaltv/bant1/chunks.m3u8?nimblesessionid=1197801250
+AFROTURK TV,https://edge.socialsmart.tv/naturaltv/bant1/chunks.m3u8
