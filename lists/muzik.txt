@@ -2,11 +2,11 @@ NUMBER 1 TV,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broa
 NUMBER 1 ASK,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/chunklist.m3u8
 NUMBER 1 DAMAR,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/chunklist.m3u8
 NUMBER 1 DANCE,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/chunklist.m3u8
-POWER TV,https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b4596000_sltur.m3u8?nimblesessionid=245016165
-POWER DANCE,https://livetv.powerapp.com.tr/dance/dance.smil/chunks.m3u8?nimblesessionid=245011461
-POWER LOVE,https://livetv.powerapp.com.tr/dance/dance.smil/chunks.m3u8?nimblesessionid=245011461
-POWER TURK,https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b4596000_sltur.m3u8?nimblesessionid=245013047
-POWER TURK AKUSTIK,https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/chunks.m3u8?nimblesessionid=245014153
-POWER TURK SLOW,https://livetv.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8?nimblesessionid=245014843
-POWER TURK TAPTAZE,https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/chunks.m3u8?nimblesessionid=245015496
+POWER TV,https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b4596000_sltur.m3u8
+POWER DANCE,https://livetv.powerapp.com.tr/dance/dance.smil/chunks.m3u8
+POWER LOVE,https://livetv.powerapp.com.tr/dance/dance.smil/chunks.m3u8
+POWER TURK,https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b4596000_sltur.m3u8
+POWER TURK AKUSTIK,https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/chunks.m3u8
+POWER TURK SLOW,https://livetv.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8
+POWER TURK TAPTAZE,https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/chunks.m3u8
 TRT MUZIK 2K,https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
