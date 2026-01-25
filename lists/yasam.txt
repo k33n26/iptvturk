@@ -1,0 +1,9 @@
+FORTUNA TV,https://edge.socialsmart.tv/ftvturk/bant1/chunks.m3u8?nimblesessionid=1197731599
+DIYANET TV,https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_0.m3u8
+DOST TV,https://dost.stream.emsal.im/tv/live.m3u8
+LALEGUL TV,https://lbl.netmedya.net/hls/lalegultv.m3u8
+MELTEM TV,https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+SEMERKAND TV,https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_0.m3u8
+UU TV,https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+VAV TV,https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
+DIYAR TV,https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8?nimblesessionid=2121416270
