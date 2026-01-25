@@ -8,17 +8,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - run: pip install requests matplotlib pillow
 
-      - name: Build playlist & stats
+      - name: Build playlist, stats, chart, update README
         run: |
           python scripts/build_playlist.py
           python scripts/build_stats.py
@@ -37,6 +34,6 @@ jobs:
           git push
           git push --tags
 
-      - name: Purge jsDelivr cache
+      - name: Purge jsDelivr latest cache
         run: |
-          curl -X GET https://purge.jsdelivr.net/gh/k33n26/iptvturk@v$(cat VERSION.txt)/playlist.m3u
+          curl -X GET https://purge.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
