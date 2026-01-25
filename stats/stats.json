@@ -1,7 +1,7 @@
 {
-  "total_channels": 128,
+  "total_channels": 129,
   "groups": {
-    "AVRUPA": 2,
+    "AVRUPA": 3,
     "BELGESEL": 6,
     "HABER": 16,
     "MUZIK": 12,
@@ -11,5 +11,5 @@
     "YASAM": 9,
     "YEREL": 50
   },
-  "last_update": "2026-01-25 14:00:07 UTC"
+  "last_update": "2026-01-25 14:04:09 UTC"
 }

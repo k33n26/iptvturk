@@ -255,3 +255,5 @@ https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1 tvg-name="EURO-D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="AVRUPA TV",EURO-D
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
+#EXTINF:-1 tvg-name="EURO-STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/IPTV_logo.png" group-title="AVRUPA TV",EURO-STAR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
