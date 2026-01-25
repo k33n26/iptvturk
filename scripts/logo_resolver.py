@@ -9,8 +9,7 @@ else:
     cache = {}
 
 def save():
-    json.dump(cache, open(CACHE_FILE, "w", encoding="utf-8"),
-              indent=2, ensure_ascii=False)
+    json.dump(cache, open(CACHE_FILE, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
 
 def wiki_logo(channel):
     try:
