@@ -30,13 +30,15 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
 #EXTINF:-1 group-title="belgesel",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 group-title="belgesel",CİFTCİ TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
-#EXTINF:-1 group-title="belgesel",Tarım-TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 group-title="belgesel",TARIM-TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 #EXTINF:-1 group-title="belgesel",YAZ-TV
 https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist/2.m3u8
 #EXTINF:-1 group-title="belgesel",TGRT-BELGESEL
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:-1 group-title="belgesel",AGRO TV
+https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",MINIKA COCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",MINIKA GO
