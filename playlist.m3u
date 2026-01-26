@@ -171,6 +171,8 @@ http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 #EXTINF:-1 group-title="sinema dizi",YANSIMA-SINEMA
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
+#EXTINF:-1 group-title="sinema dizi",RIZE-TURK TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 group-title="spor",TRT-SPOR 2K
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="spor",TRT-SPOR-YILDIZ 2K
