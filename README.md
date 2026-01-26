@@ -5,7 +5,7 @@ https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
 
 <!-- STATS-START -->
 - 📺 **yerel**: 50 kanal
-- 📺 **ulusal**: 33 kanal
+- 📺 **ulusal**: 34 kanal
 - 📺 **haber**: 27 kanal
 - 📺 **sinema dizi**: 23 kanal
 - 📺 **muzik**: 14 kanal
@@ -15,6 +15,6 @@ https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
 - 📺 **avrupa**: 8 kanal
 - 📺 **cocuk cizgi**: 2 kanal
 
-Güncelleme: `2026-01-26 09:40:31 (TR)`
-Toplam Kanal: **189**
+Güncelleme: `2026-01-26 09:41:11 (TR)`
+Toplam Kanal: **190**
 <!-- STATS-END -->
