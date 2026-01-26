@@ -1,5 +1,5 @@
 {
-  "total": 262,
+  "total": 273,
   "groups": {
     "kibris tv": 2,
     "spor": 18,
@@ -11,7 +11,8 @@
     "ulusal": 35,
     "haber": 27,
     "belgesel": 12,
-    "avrupa": 9
+    "avrupa": 9,
+    "filmler": 11
   },
-  "updated": "2026-01-26 11:06:58 (TR)"
+  "updated": "2026-01-26 11:08:33 (TR)"
 }
