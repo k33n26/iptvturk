@@ -3,7 +3,9 @@ NTV,https://dsmartgo-live.ercdn.net/dsmartgo/ntv/ntv.isml/ntv.m3u8
 HABERGLOBAL,https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 HABERTURK,https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
 HALK TV,https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+SZC TVhttps://dsmartgo-live.ercdn.net/sozcutv/sozcutv.m3u8
 TELE 1,https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+TELE 2,https://video.twimg.com/amplify_video/1988933245791096832/pl/-LYtCesCNPKsSJDS.m3u8?variant_version=1&tag=14
 TGRT HABER,https://canli.tgrthaber.com/tgrt.m3u8
 24 HABER,https://dsmartgo-live.ercdn.net/dsmartgo/24/24.isml/24.m3u8
 HABER GLOBAL,https://dsmartgo-live.ercdn.net/dsmartgo/haberglobal/haberglobal.isml/haberglobal.m3u8
@@ -14,3 +16,13 @@ TV100,https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 TVnet,https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 TYT TURK,https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
 AKIT TV,https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+ULUSAL KANAL,https://trn03.tulix.tv/gt-ulusaltv/playlist.m3u8
+EKOL TV,https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+FLASH HABER,https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+TELE NEWS,https://cdn-telenews.yayin.com.tr/telenews/index.m3u8
+ILKE TV,https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+ULKE TV,https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+TH TURK HABER,https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+YENI CAG TV,https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8
+LIDER HABER,http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+A HABER,http://65.108.239.207/ahaber/index.m3u8
