@@ -41,6 +41,8 @@ https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 group-title="haber",TELE 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+#EXTINF:-1 group-title="haber",TELE 2
+https://video.twimg.com/amplify_video/1988933245791096832/pl/-LYtCesCNPKsSJDS.m3u8?variant_version=1&tag=14
 #EXTINF:-1 group-title="haber",TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 group-title="haber",24 HABER
@@ -61,6 +63,26 @@ https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="haber",AKIT TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1 group-title="haber",ULUSAL KANAL
+https://trn03.tulix.tv/gt-ulusaltv/playlist.m3u8
+#EXTINF:-1 group-title="haber",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1 group-title="haber",FLASH HABER
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+#EXTINF:-1 group-title="haber",TELE NEWS
+https://cdn-telenews.yayin.com.tr/telenews/index.m3u8
+#EXTINF:-1 group-title="haber",ILKE TV
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-1 group-title="haber",ULKE TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+#EXTINF:-1 group-title="haber",TH TURK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 group-title="haber",YENI CAG TV
+https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="haber",LIDER HABER
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+#EXTINF:-1 group-title="haber",A HABER
+http://65.108.239.207/ahaber/index.m3u8
 #EXTINF:-1 group-title="muzik",NUMBER 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:-1 group-title="muzik",NUMBER 1 ASK
