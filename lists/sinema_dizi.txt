@@ -42,3 +42,14 @@ Yesilcam3 TV,http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv3/playlist.m3u8
 Sinevizyon1,http://162.212.179.33:80/gin-trn09/gt-sinevizyon-1/index.m3u8
 Sinevizyon2,http://162.212.179.33:80/gin-trn09/gt-sinevizyon-2/index.m3u8
 Sinevizyon3,http://162.212.179.33:80/gin-trn09/gt-sinevizyon-3/index.m3u8
+BSAction,http://65.108.239.207/bsaction1/index.m3u8
+BSPremier,http://65.108.239.207/bspremier1/index.m3u8
+BSFamily,http://65.108.239.207/bsfamily/index.m3u8
+BSBoxOffice1,http://65.108.239.207/box1/index.m3u8
+BSBoxOffice2,http://65.108.239.207/box2/index.m3u8
+BSBoxOffice3,http://65.108.239.207/box3/index.m3u8
+BSStars,http://65.108.239.207/bsstars/index.m3u8
+
+
+
+
