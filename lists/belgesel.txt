@@ -1,6 +1,14 @@
 TRT BELGESEL 2K,https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 NAT-GEO-CHANNEL,https://saran-live.ercdn.net/natgeohd/index.m3u8
 NAT-GEO-WILD,https://saran-live.ercdn.net/natgeowild/index.m3u8
+BBCEarth,http://65.108.239.207:80/bbc/index.m3u8
+Discovery,http://65.108.239.207:80/discovery/index.m3u8
+DiscoveryID,http://65.108.239.207:80/discs/index.m3u8
+DocuScreen,http://65.108.239.207:80/docubox/index.m3u8
+History,http://65.108.239.207:80/history/index.m3u8
+LoveNature,http://65.108.239.207:80/lovenature/index.m3u8
+Tarih-TV,http://65.108.239.207:80/tarihtv/index.m3u8
+ViasatHistory,http://65.108.239.207:80/viasathistory/index.m3u8
 DMAX,https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
 TLC,https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/tlc.m3u8
 CGTN DOCUMENTARY,https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
