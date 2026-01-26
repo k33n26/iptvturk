@@ -2,3 +2,4 @@ MINIKA COCUK,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/mini
 MINIKA GO,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 DISNEY-JUNIOR,https://saran-live.ercdn.net/disneyjunior/index.m3u8
 BABY-TV,https://saran-live.ercdn.net/babytv/index.m3u8
+CARTOON NETWORK,http://65.108.239.207/cartoonnetwork/index.m3u8
