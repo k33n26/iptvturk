@@ -201,6 +201,22 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 group-title="spor",MACKOLIK TV
 https://mackolik-live.ercdn.net/mackolik/mackolik_720p.m3u8
+#EXTINF:-1 group-title="spor",TABII-SPOR
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="spor",TABII-SPOR1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="spor",TABII-SPOR2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="spor",TABII-SPOR3
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="spor",TABII-SPOR4
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="spor",TABII-SPOR5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="spor",TABII-SPOR6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="spor",TR-Sports
+http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1 group-title="ulusal",TRT1 2K
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="ulusal",TRT 1 FHD
