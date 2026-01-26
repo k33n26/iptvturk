@@ -14,9 +14,9 @@ https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
 - 📺 **muzik**: 14 kanal
 - 📺 **filmler**: 11 kanal
 - 📺 **avrupa**: 9 kanal
-- 📺 **cocuk cizgi**: 4 kanal
+- 📺 **cocuk cizgi**: 5 kanal
 - 📺 **kibris tv**: 2 kanal
 
-Güncelleme: `2026-01-26 11:27:24 (TR)`
-Toplam Kanal: **309**
+Güncelleme: `2026-01-26 11:27:59 (TR)`
+Toplam Kanal: **310**
 <!-- STATS-END -->
