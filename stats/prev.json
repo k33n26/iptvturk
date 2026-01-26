@@ -1,9 +1,9 @@
 {
-  "total": 255,
+  "total": 257,
   "groups": {
     "kibris tv": 2,
     "spor": 18,
-    "cocuk cizgi": 2,
+    "cocuk cizgi": 4,
     "sinema dizi": 25,
     "yerel": 87,
     "yasam": 24,
@@ -13,5 +13,5 @@
     "belgesel": 12,
     "avrupa": 9
   },
-  "updated": "2026-01-26 10:55:58 (TR)"
+  "updated": "2026-01-26 10:57:26 (TR)"
 }

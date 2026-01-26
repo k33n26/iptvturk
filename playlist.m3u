@@ -45,6 +45,10 @@ https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",MINIKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",DISNEY-JUNIOR
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",BABY-TV
+https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 group-title="haber",CNN-TURK
 https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 #EXTINF:-1 group-title="haber",NTV
