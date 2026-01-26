@@ -159,6 +159,8 @@ https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1.m3u8
 https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="ulusal",TRT BELGESEL 2K
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 group-title="ulusal",TRT GENC
+https://tv-trtgenc.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="ulusal",TRT TURK 2K
 https://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="ulusal",TRT HABER 2K
@@ -209,6 +211,12 @@ https://dsmartgo-live.ercdn.net/dsmartgo/kanal7/kanal7.isml/kanal7.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 group-title="ulusal",AFROTURK TV
 https://edge.socialsmart.tv/naturaltv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ulusal",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 group-title="ulusal",CINE 1 TV
+http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+#EXTINF:-1 group-title="ulusal",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 group-title="yasam",FORTUNA TV
 https://edge.socialsmart.tv/ftvturk/bant1/chunks.m3u8
 #EXTINF:-1 group-title="yasam",DIYANET TV
