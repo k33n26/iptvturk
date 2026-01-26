@@ -23,6 +23,22 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 group-title="belgesel",NAT-GEO-WILD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 group-title="belgesel",BBCEarth
+http://65.108.239.207:80/bbc/index.m3u8
+#EXTINF:-1 group-title="belgesel",Discovery
+http://65.108.239.207:80/discovery/index.m3u8
+#EXTINF:-1 group-title="belgesel",DiscoveryID
+http://65.108.239.207:80/discs/index.m3u8
+#EXTINF:-1 group-title="belgesel",DocuScreen
+http://65.108.239.207:80/docubox/index.m3u8
+#EXTINF:-1 group-title="belgesel",History
+http://65.108.239.207:80/history/index.m3u8
+#EXTINF:-1 group-title="belgesel",LoveNature
+http://65.108.239.207:80/lovenature/index.m3u8
+#EXTINF:-1 group-title="belgesel",Tarih-TV
+http://65.108.239.207:80/tarihtv/index.m3u8
+#EXTINF:-1 group-title="belgesel",ViasatHistory
+http://65.108.239.207:80/viasathistory/index.m3u8
 #EXTINF:-1 group-title="belgesel",DMAX
 https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
 #EXTINF:-1 group-title="belgesel",TLC
