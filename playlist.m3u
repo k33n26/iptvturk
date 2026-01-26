@@ -129,12 +129,26 @@ http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 #EXTINF:-1 group-title="sinema dizi",YANSIMA-SINEMA
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
+#EXTINF:-1 group-title="spor",TRT-SPOR 2K
+https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 group-title="spor",TRT-SPOR-YILDIZ 2K
+https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="spor",SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="spor",TJK TV
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
 #EXTINF:-1 group-title="spor",FB TV HD
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="spor",HT SPOR
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
+#EXTINF:-1 group-title="spor",0 TV
+https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
+#EXTINF:-1 group-title="spor",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+#EXTINF:-1 group-title="spor",EKOL SPORTS
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+#EXTINF:-1 group-title="spor",MACKOLIK TV
+https://mackolik-live.ercdn.net/mackolik/mackolik_720p.m3u8
 #EXTINF:-1 group-title="ulusal",TRT1 2K
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="ulusal",TRT 1 FHD
