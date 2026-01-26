@@ -21,3 +21,4 @@ PLAY-TV,https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 BALKAN-TURK,http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 HOCWAN-TV,https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 YANSIMA-SINEMA,http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
+RIZE-TURK TV,https://yayin.rizeturk.com:3777/hybrid/play.m3u8
