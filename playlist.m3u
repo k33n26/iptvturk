@@ -225,8 +225,10 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:-1 group-title="yasam",VAV TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
-#EXTINF:-1 group-title="yasam",DIYAR TV
+#EXTINF:-1 group-title="yasam",IKRA TV
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8
+#EXTINF:-1 group-title="yasam",MOR TV
+https://live.euromediacenter.com/tvmor/index.m3u8
 #EXTINF:-1 group-title="yerel",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 #EXTINF:-1 group-title="yerel",CAY TV
