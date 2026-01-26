@@ -261,6 +261,8 @@ http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 group-title="ulusal",KANAL B
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
+#EXTINF:-1 group-title="ulusal",TURKMENELI TV
+https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 group-title="yasam",FORTUNA TV
 https://edge.socialsmart.tv/ftvturk/bant1/chunks.m3u8
 #EXTINF:-1 group-title="yasam",DIYANET TV
