@@ -161,6 +161,28 @@ http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 http://87.121.104.29:145/trtnostalji/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",MoviSmartTURK
+http://65.108.239.207:80/mvturk/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",SinemaTV
+http://65.108.239.207:80/sinema/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",SinemaTV-2
+http://65.108.239.207:80/sinema2/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",Sinema1001
+http://65.108.239.207:80/sinema1001/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",Sinema1002
+http://65.108.239.207:80/sinema1002/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",SinemaAksiyon
+http://65.108.239.207:80/sinemaaksiyon/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",SinemaAksiyon2
+http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",SinemaAile
+http://65.108.239.207:80/sinemaaile/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",SinemaKomedi
+http://65.108.239.207:80/sinemakomedi/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",SinemaYerli
+http://65.108.239.207:80/sinemayerli/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",SinemaYerli2
+http://65.108.239.207:80/sinemayerli2/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",FILM-SCREEN
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 group-title="sinema dizi",FX
@@ -217,6 +239,12 @@ http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv1/playlist.m3u8
 http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv2/playlist.m3u8
 #EXTINF:-1 group-title="sinema dizi",Yesilcam3 TV
 http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv3/playlist.m3u8
+#EXTINF:-1 group-title="sinema dizi",Sinevizyon1
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-1/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",Sinevizyon2
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-2/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",Sinevizyon3
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-3/index.m3u8
 #EXTINF:-1 group-title="spor",TRT-SPOR 2K
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="spor",TRT-SPOR-YILDIZ 2K
