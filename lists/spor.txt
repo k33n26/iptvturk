@@ -16,4 +16,11 @@ TABII-SPOR4,https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
 TABII-SPOR5,https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 TABII-SPOR6,https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 TR-Sports,http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
-
+Sporsmart 1,http://65.108.239.207/smart1/index.m3u8
+Sporsmart 2,http://65.108.239.207/smart2/index.m3u8
+EuroSport 1,http://65.108.239.207/euro1/index.m3u8
+EuroSport 2,http://65.108.239.207/euro2/index.m3u8
+Tivibu Spor 1,http://65.108.239.207/t1/index.m3u8
+Tivibu Spor 2,http://65.108.239.207/t2/index.m3u8
+Tivibu Spor 3,http://65.108.239.207/t3/index.m3u8
+Tivibu Spor 4,http://65.108.239.207/t4/index.m3u8
