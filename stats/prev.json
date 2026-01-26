@@ -1,7 +1,8 @@
 {
-  "total": 180,
+  "total": 182,
   "groups": {
     "spor": 10,
+    "cocuk cizgi": 2,
     "sinema dizi": 23,
     "yerel": 50,
     "yasam": 10,
@@ -11,5 +12,5 @@
     "belgesel": 11,
     "avrupa": 4
   },
-  "updated": "2026-01-26 09:17:04 (TR)"
+  "updated": "2026-01-26 09:17:34 (TR)"
 }
