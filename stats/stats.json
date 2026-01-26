@@ -1,10 +1,10 @@
 {
-  "total": 207,
+  "total": 244,
   "groups": {
     "spor": 10,
     "cocuk cizgi": 2,
     "sinema dizi": 24,
-    "yerel": 50,
+    "yerel": 87,
     "yasam": 24,
     "muzik": 14,
     "ulusal": 35,
@@ -12,5 +12,5 @@
     "belgesel": 12,
     "avrupa": 9
   },
-  "updated": "2026-01-26 10:36:29 (TR)"
+  "updated": "2026-01-26 10:38:08 (TR)"
 }

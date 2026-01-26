@@ -335,18 +335,26 @@ https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 #EXTINF:-1 group-title="yerel",KANAL 15
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/chunks.m3u8
+#EXTINF:-1 group-title="yerel",KANAL 19
+https://live.euromediacenter.com/kanal19/index.m3u8
 #EXTINF:-1 group-title="yerel",KANAL 23
 https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
 #EXTINF:-1 group-title="yerel",KANAL 26
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
 #EXTINF:-1 group-title="yerel",KANAL 32
-https://edge.socialsmart.tv/kanal32/bant1/chunks.m3u8?nimblesessionid=1197788119
+https://edge.socialsmart.tv/kanal32/bant1/chunks.m3u8
 #EXTINF:-1 group-title="yerel",KANAL 33
-https://edge.socialsmart.tv/kanal33/bant1/chunks.m3u8?nimblesessionid=1197788706
+https://edge.socialsmart.tv/kanal33/bant1/chunks.m3u8
+#EXTINF:-1 group-title="yerel",KANAL 34
+https://live.euromediacenter.com/kanal34/index.m3u8
+#EXTINF:-1 group-title="yerel",KANAL 53
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 group-title="yerel",KANAL 58
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
 #EXTINF:-1 group-title="yerel",KANAL FIRAT
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8
+#EXTINF:-1 group-title="yerel",KANAL URFA
+https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
 #EXTINF:-1 group-title="yerel",KANAL V
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
 #EXTINF:-1 group-title="yerel",KANAL Z
@@ -413,3 +421,69 @@ https://edge.socialsmart.tv/altastv/bant1/chunks.m3u8
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1 group-title="yerel",AKSU TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
+#EXTINF:-1 group-title="yerel",AKDENIZ TV
+https://cdn-akdeniztv.yayin.com.tr/akdeniztv/akdeniztv/playlist.m3u8
+#EXTINF:-1 group-title="yerel",ART ANTALYA WORLD
+https://live.artidijitalmedya.com/artidijital_artworld/artworld/chunks.m3u8
+#EXTINF:-1 group-title="yerel",BiR TV
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="yerel",BRTV KARABUK
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+#EXTINF:-1 group-title="yerel",EGE MAX TV
+http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
+#EXTINF:-1 group-title="yerel",ERCIS TV
+https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
+#EXTINF:-1 group-title="yerel",ERCIYES TV
+https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
+#EXTINF:-1 group-title="yerel",EDIRNE TV
+https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
+#EXTINF:-1 group-title="yerel",ESENLER SEHİR TV
+https://yayin30.haber100.com/live/sehirekrani/playlist.m3u8
+#EXTINF:-1 group-title="yerel",FRT FETHIYE
+https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="yerel",IZMIR TIME 35 TV
+https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8
+#EXTINF:-1 group-title="yerel",KASTAMONU TV
+http://51.91.118.139:8080/live/kastamonutv/kastamonutv/3385.m3u8
+#EXTINF:-1 group-title="yerel",K+ KAYSERI
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
+#EXTINF:-1 group-title="yerel",KENT TV BODRUM
+https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="yerel",KOCAELI TV
+https://edge1.socialsmart.tv/kocaelitv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="yerel",KONYA KTV
+https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
+#EXTINF:-1 group-title="yerel",TV42 KONYA
+http://canliyayin.tv42.com.tr/memfs/288fb8d8-21f6-4be6-b48e-a5ed1606430c.m3u8
+#EXTINF:-1 group-title="yerel",MALATYA PENCERE
+https://cdn-malatyapencere.yayin.com.tr/malatyapencere/malatyapencere/playlist.m3u8
+#EXTINF:-1 group-title="yerel",MALATYA VUSLAT TV
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+#EXTINF:-1 group-title="yerel",MANİSA ETV
+https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="yerel",METROPOL DENIZLI
+https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="yerel",ORDU BEL TV
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
+#EXTINF:-1 group-title="yerel",RIZE HABER
+http://cdn4.yayin.com.tr/haberrize/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="yerel",SLOW KARADENIZ TV
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+#EXTINF:-1 group-title="yerel",TV KAYSERI
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/tvkayseri.m3u8
+#EXTINF:-1 group-title="yerel",TV 1 KAYSERI
+https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
+#EXTINF:-1 group-title="yerel",TV 264 SAKARYA
+http://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+#EXTINF:-1 group-title="yerel",TV 41 KOCAELI
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
+#EXTINF:-1 group-title="yerel",TV 52 ORDU
+https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
+#EXTINF:-1 group-title="yerel",TV DEN AYDIN
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 group-title="yerel",VAN GOLU TV
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
+#EXTINF:-1 group-title="yerel",VAN 65 TV ORT
+https://live.artidijitalmedya.com/artidijital_ort/ort/chunks.m3u8
+#EXTINF:-1 group-title="yerel",WORLD TURK TV
+https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
