@@ -137,6 +137,8 @@ http://87.121.104.29:145/trtnostalji/stream.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",FILM-SCREEN
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+#EXTINF:-1 group-title="sinema dizi",FX
+https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",GRAND SINEMA
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",DENIZPOSTASI TV
