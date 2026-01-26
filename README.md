@@ -15,6 +15,6 @@ https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
 - 📺 **avrupa**: 8 kanal
 - 📺 **cocuk cizgi**: 2 kanal
 
-Güncelleme: `2026-01-26 10:19:28 (TR)`
+Güncelleme: `2026-01-26 10:19:54 (TR)`
 Toplam Kanal: **193**
 <!-- STATS-END -->
