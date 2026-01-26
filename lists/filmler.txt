@@ -1,0 +1,11 @@
+Recep.Ivedik.1,https://vidmody.com/mm/tt1193516/main/index.m3u8
+Recep.Ivedik.2,https://vidmody.com/mm/tt1373215/main/index.m3u8
+Recep.Ivedik.3,https://vidmody.com/mm/tt1577061/main/index.m3u8
+Recep.Ivedik.4,https://vidmody.com/mm/tt3477064/main/index.m3u8
+Recep.Ivedik.5,https://vidmody.com/mm/tt6439558/main/index.m3u8
+Recep.Ivedik.6,https://vidmody.com/mm/tt7399138/main/index.m3u8
+Recep.Ivedik.7,https://vidmody.com/mm/tt19759204/main/index.m3u8
+Kolpacino.1,https://vidmody.com/mm/tt1523486/main/index.m3u8
+Kolpacino.2,https://vidmody.com/mm/tt1862472/main/index.m3u8
+Kolpacino.3,https://vidmody.com/mm/tt5505316/main/index.m3u8
+Kolpacino.4,https://vidmody.com/mm/tt29454492/main/index.m3u8
