@@ -2,6 +2,7 @@ TRT1 2K,https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 TRT 1 FHD,https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1.m3u8
 TRT2 2K,https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
 TRT BELGESEL 2K,https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
+TRT GENC,https://tv-trtgenc.medya.trt.com.tr/master_1440.m3u8
 TRT TURK 2K,https://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
 TRT HABER 2K,https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
 TRT AVAZ 2K,https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8
@@ -27,3 +28,6 @@ BLOOMBERG-HT,https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
 KANAL 7,https://dsmartgo-live.ercdn.net/dsmartgo/kanal7/kanal7.isml/kanal7.m3u8
 360 TV,https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 AFROTURK TV,https://edge.socialsmart.tv/naturaltv/bant1/chunks.m3u8
+BEYAZ TV,https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+CINE 1 TV,http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+A2,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
