@@ -31,8 +31,6 @@ http://65.108.239.207:80/discovery/index.m3u8
 http://65.108.239.207:80/discs/index.m3u8
 #EXTINF:-1 group-title="belgesel",DocuScreen
 http://65.108.239.207:80/docubox/index.m3u8
-#EXTINF:-1 group-title="belgesel",History
-http://65.108.239.207:80/history/index.m3u8
 #EXTINF:-1 group-title="belgesel",LoveNature
 http://65.108.239.207:80/lovenature/index.m3u8
 #EXTINF:-1 group-title="belgesel",Tarih-TV
