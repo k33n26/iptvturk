@@ -1,12 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="avrupa",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
-#EXTINF:-1 group-title="avrupa",EURO-D
+#EXTINF:-1 group-title="avrupa",EURO-D FHD
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
+#EXTINF:-1 group-title="avrupa",EURO-D HD
+http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title="avrupa",EURO-STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 #EXTINF:-1 group-title="avrupa",SHOW MAX
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+#EXTINF:-1 group-title="avrupa",SHOW TURK
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
+#EXTINF:-1 group-title="avrupa",ATV AVRUPA
+http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
+#EXTINF:-1 group-title="avrupa",TGRT EU
+https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 #EXTINF:-1 group-title="belgesel",TRT BELGESEL 2K
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="belgesel",NAT-GEO-CHANNEL
