@@ -15,6 +15,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/sht
 http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
 #EXTINF:-1 group-title="avrupa",TGRT EU
 https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
+#EXTINF:-1 group-title="avrupa",KANAL AVRUPA
+http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
 #EXTINF:-1 group-title="belgesel",TRT BELGESEL 2K
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="belgesel",NAT-GEO-CHANNEL
