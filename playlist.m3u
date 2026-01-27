@@ -197,6 +197,8 @@ https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 group-title="muzik",DREAM TURK
 http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="muzik",SLOW TIME
+http://87.121.104.29:145/akustikturku/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",BIZIMKILER
 http://87.121.104.29:145/trtnostalji/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
