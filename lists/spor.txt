@@ -1,5 +1,6 @@
 TRT-SPOR 2K,https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
 TRT-SPOR-YILDIZ 2K,https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8
+BSPORT HABER,http://87.121.104.29:145/bshaberyt/stream.m3u8
 SPORTS TV,https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 TJK TV,https://tjktv-live.tjk.org/tjktv_1080p.m3u8
 FB TV HD,https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
