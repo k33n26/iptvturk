@@ -3,3 +3,5 @@ MINIKA GO,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p
 DISNEY-JUNIOR,https://saran-live.ercdn.net/disneyjunior/index.m3u8
 BABY-TV,https://saran-live.ercdn.net/babytv/index.m3u8
 CARTOON NETWORK,http://65.108.239.207/cartoonnetwork/index.m3u8
+COCUKSMART,https://testcable.denek1544.workers.dev/channel/w4dvY3VrIFNtYXJ0
+KRAL SAKIR,http://87.121.104.29:145/cartoonnetworkyt/stream3.m3u8
