@@ -1,6 +1,16 @@
 TRT BELGESEL 2K,https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 NAT-GEO-CHANNEL,https://saran-live.ercdn.net/natgeohd/index.m3u8
 NAT-GEO-WILD,https://saran-live.ercdn.net/natgeowild/index.m3u8
+NATURE TIME,http://87.121.104.29:145/naturetimetr/stream.m3u8
+DMAX ANTIK MISIR,http://87.121.104.29:145/dmax/stream.m3u8
+TARIH TV,https://kertenkele.denek1544.workers.dev/izle/tarihtv.m3u8
+VIASAT EXPLORE,https://kertenkele.denek1544.workers.dev/izle/historychannel.m3u8
+VIASAT HISTORY,https://kertenkele.denek1544.workers.dev/izle/viasathistory.m3u8
+LOVE NATURE,https://kertenkele.denek1544.workers.dev/izle/lovenature.m3u8
+BBC EARTH,https://kertenkele.denek1544.workers.dev/izle/bbcearthhd.m3u8
+DISCOVERY,https://belgeselpatr0n.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
+IDX,https://belgeselpatr0n.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=
+DOCUSCREEN,https://belgeselpatr0n.testworker0y.workers.dev/channel/RG9jdUJveA==
 BBCEarth,http://65.108.239.207:80/bbc/index.m3u8
 Discovery,http://65.108.239.207:80/discovery/index.m3u8
 DiscoveryID,http://65.108.239.207:80/discs/index.m3u8
