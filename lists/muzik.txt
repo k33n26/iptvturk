@@ -12,3 +12,4 @@ POWER TURK TAPTAZE,https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/play
 TRT MUZIK 2K,https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
 KRAL POP,http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 DREAM TURK,http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+SLOW TIME,http://87.121.104.29:145/akustikturku/stream.m3u8
