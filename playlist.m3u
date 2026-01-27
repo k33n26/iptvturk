@@ -85,6 +85,10 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",CARTOON NETWORK
 http://65.108.239.207/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",COCUKSMART
+https://testcable.denek1544.workers.dev/channel/w4dvY3VrIFNtYXJ0
+#EXTINF:-1 group-title="cocuk cizgi",KRAL SAKIR
+http://87.121.104.29:145/cartoonnetworkyt/stream3.m3u8
 #EXTINF:-1 group-title="filmler",Recep.Ivedik.1
 https://vidmody.com/mm/tt1193516/main/index.m3u8
 #EXTINF:-1 group-title="filmler",Recep.Ivedik.2
