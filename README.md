@@ -18,6 +18,6 @@ https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
 - 📺 **dinlenme**: 3 kanal
 - 📺 **kibris tv**: 2 kanal
 
-Güncelleme: `2026-01-29 09:57:11 (TR)`
+Güncelleme: `2026-01-29 16:10:46 (TR)`
 Toplam Kanal: **331**
 <!-- STATS-END -->
