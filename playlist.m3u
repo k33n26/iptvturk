@@ -24,9 +24,9 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 group-title="belgesel",NAT-GEO-WILD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 group-title="belgesel",NATURE TIME
-http://87.121.104.29:145/naturetimetr/stream.m3u8
+http://87.121.104.29:1855/naturetimetr/stream.m3u8
 #EXTINF:-1 group-title="belgesel",DMAX ANTIK MISIR
-http://87.121.104.29:145/dmax/stream.m3u8
+http://87.121.104.29:1855/dmax/stream.m3u8
 #EXTINF:-1 group-title="belgesel",TARIH TV
 https://kertenkele.denek1544.workers.dev/izle/tarihtv.m3u8
 #EXTINF:-1 group-title="belgesel",VIASAT EXPLORE
@@ -90,11 +90,11 @@ https://testcable.denek1544.workers.dev/channel/w4dvY3VrIFNtYXJ0
 #EXTINF:-1 group-title="cocuk cizgi",KRAL SAKIR
 http://87.121.104.29:145/cartoonnetworkyt/stream3.m3u8
 #EXTINF:-1 group-title="dinlenme",KUSLAR
-http://87.121.104.29:145/rahatlaticises/stream.m3u8
+http://87.121.104.29:1855/rahatlaticises/stream.m3u8
 #EXTINF:-1 group-title="dinlenme",ORMAN
-http://87.121.104.29:145/ormansesleri/stream.m3u8
+http://87.121.104.29:1855/ormansesleri/stream.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINE
-http://87.121.104.29:145/somine/stream.m3u8
+http://87.121.104.29:1855/somine/stream.m3u8
 #EXTINF:-1 group-title="filmler",Recep.Ivedik.1
 https://vidmody.com/mm/tt1193516/main/index.m3u8
 #EXTINF:-1 group-title="filmler",Recep.Ivedik.2
@@ -206,17 +206,17 @@ http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 group-title="muzik",SLOW TIME
 http://87.121.104.29:145/akustikturku/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",BIZIMKILER
-http://87.121.104.29:145/trtnostalji/stream.m3u8
+http://87.121.104.29:1855/trtnostalji/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",KEMAL SUNAL
-http://87.121.104.29:145/kemalsunal/stream.m3u8
+http://87.121.104.29:1855/kemalsunal/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",GULSAH FILM
-http://87.121.104.29:145/gulsahfilm/stream.m3u8
+http://87.121.104.29:1855/gulsahfilm/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",ARZU FILM
-http://87.121.104.29:145/arzufilm/stream.m3u8
+http://87.121.104.29:1855/arzufilm/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",GULDUR GULDUR
-http://87.121.104.29:145/guldurguldur/stream.m3u8
+http://87.121.104.29:1855/guldurguldur/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",MoviSmartTURK
 http://65.108.239.207:80/mvturk/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",SinemaTV
@@ -320,7 +320,7 @@ https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="spor",TRT-SPOR-YILDIZ 2K
 https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="spor",BSPORT HABER
-http://87.121.104.29:145/bshaberyt/stream.m3u8
+http://87.121.104.29:1855/bshaberyt/stream.m3u8
 #EXTINF:-1 group-title="spor",SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="spor",TJK TV
