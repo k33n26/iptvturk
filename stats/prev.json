@@ -1,19 +1,19 @@
 {
   "total": 331,
   "groups": {
-    "kibris tv": 2,
-    "spor": 27,
-    "cocuk cizgi": 7,
     "sinema dizi": 55,
-    "yerel": 87,
+    "spor": 27,
     "yasam": 24,
-    "muzik": 15,
+    "cocuk cizgi": 7,
     "ulusal": 35,
     "haber": 27,
-    "belgesel": 29,
     "dinlenme": 3,
+    "yerel": 87,
     "avrupa": 9,
-    "filmler": 11
+    "belgesel": 29,
+    "filmler": 11,
+    "muzik": 15,
+    "kibris tv": 2
   },
-  "updated": "2026-02-12 16:22:49 (TR)"
+  "updated": "2026-02-12 22:10:32 (TR)"
 }
