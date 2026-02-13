@@ -206,7 +206,7 @@ http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 group-title="muzik",SLOW TIME
 http://87.121.104.29:145/akustikturku/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",BIZIMKILER
-http://87.121.104.29:1855/trtnostalji/stream.m3u8
+http://87.121.104.29:1855/trtnostalji/stream2.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",KEMAL SUNAL
