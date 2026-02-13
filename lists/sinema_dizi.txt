@@ -1,4 +1,4 @@
-BIZIMKILER,http://87.121.104.29:1855/trtnostalji/stream.m3u8
+BIZIMKILER,http://87.121.104.29:1855/trtnostalji/stream2.m3u8
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 KEMAL SUNAL,http://87.121.104.29:1855/kemalsunal/stream.m3u8
 GULSAH FILM,http://87.121.104.29:1855/gulsahfilm/stream.m3u8
