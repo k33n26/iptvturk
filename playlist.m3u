@@ -79,18 +79,26 @@ https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",MINIKA COCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",MINIKA COCUK HD
+https://cdn-eu.tivimivi.com/streams/130/master.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",MINIKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",MINIKA GO HD
+https://cdn-eu.tivimivi.com/streams/127/master.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",DISNEY-JUNIOR
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",BABY-TV
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",CARTOON NETWORK
 http://65.108.239.207/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",CARTOON NETWORK(2)
+https://cdn-eu.tivimivi.com/streams/151/master.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",COCUKSMART
 https://testcable.denek1544.workers.dev/channel/w4dvY3VrIFNtYXJ0
 #EXTINF:-1 group-title="cocuk cizgi",KRAL SAKIR
-http://87.121.104.29:145/cartoonnetworkyt/stream3.m3u8
+http://87.121.104.29:1855/cartoonnetworkyt/stream3.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",AZOOMEE
+https://cdn-eu.tivimivi.com/streams/102/master.m3u8
 #EXTINF:-1 group-title="dinlenme",KUSLAR
 http://87.121.104.29:1855/rahatlaticises/stream.m3u8
 #EXTINF:-1 group-title="dinlenme",ORMAN
