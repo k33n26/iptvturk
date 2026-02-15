@@ -175,6 +175,16 @@ http://65.108.239.207/ahaber/index.m3u8
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="kibris tv",KK TV
 http://old.kuzeykibris.tv/m3u8/kktv.m3u8
+#EXTINF:-1 group-title="kibris tv",BRT1
+https://cdn-eu.tivimivi.com/streams/104/master.m3u8
+#EXTINF:-1 group-title="kibris tv",BRT2
+https://cdn-eu.tivimivi.com/streams/103/master.m3u8
+#EXTINF:-1 group-title="kibris tv",KIBRIS
+https://cdn-eu.tivimivi.com/streams/150/master.m3u8
+#EXTINF:-1 group-title="kibris tv",KANAL SIM
+https://cdn-eu.tivimivi.com/streams/142/master.m3u8
+#EXTINF:-1 group-title="kibris tv",GENC TV
+https://cdn-eu.tivimivi.com/streams/144/master.m3u8
 #EXTINF:-1 group-title="muzik",NUMBER 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:-1 group-title="muzik",NUMBER 1 ASK
