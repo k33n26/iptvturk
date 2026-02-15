@@ -1,7 +1,11 @@
 MINIKA COCUK,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
+MINIKA COCUK HD,https://cdn-eu.tivimivi.com/streams/130/master.m3u8
 MINIKA GO,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
+MINIKA GO HD,https://cdn-eu.tivimivi.com/streams/127/master.m3u8
 DISNEY-JUNIOR,https://saran-live.ercdn.net/disneyjunior/index.m3u8
 BABY-TV,https://saran-live.ercdn.net/babytv/index.m3u8
 CARTOON NETWORK,http://65.108.239.207/cartoonnetwork/index.m3u8
+CARTOON NETWORK(2),https://cdn-eu.tivimivi.com/streams/151/master.m3u8
 COCUKSMART,https://testcable.denek1544.workers.dev/channel/w4dvY3VrIFNtYXJ0
-KRAL SAKIR,http://87.121.104.29:145/cartoonnetworkyt/stream3.m3u8
+KRAL SAKIR,http://87.121.104.29:1855/cartoonnetworkyt/stream3.m3u8
+AZOOMEE,https://cdn-eu.tivimivi.com/streams/102/master.m3u8
