@@ -343,6 +343,8 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="spor",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+#EXTINF:-1 group-title="spor",A SPOR(2)
+https://cdn-eu.tivimivi.com/streams/122/master.m3u8
 #EXTINF:-1 group-title="spor",EKOL SPORTS
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 group-title="spor",MACKOLIK TV
@@ -379,6 +381,8 @@ http://65.108.239.207/t2/index.m3u8
 http://65.108.239.207/t3/index.m3u8
 #EXTINF:-1 group-title="spor",Tivibu Spor 4
 http://65.108.239.207/t4/index.m3u8
+#EXTINF:-1 group-title="spor",Cosmo Sports
+https://cdn-eu.tivimivi.com/streams/152/master.m3u8
 #EXTINF:-1 group-title="ulusal",TRT1 2K
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="ulusal",TRT 1 FHD
