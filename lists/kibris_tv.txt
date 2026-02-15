@@ -1,2 +1,7 @@
 ADA TV,https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
 KK TV,http://old.kuzeykibris.tv/m3u8/kktv.m3u8
+BRT1,https://cdn-eu.tivimivi.com/streams/104/master.m3u8
+BRT2,https://cdn-eu.tivimivi.com/streams/103/master.m3u8
+KIBRIS,https://cdn-eu.tivimivi.com/streams/150/master.m3u8
+KANAL SIM,https://cdn-eu.tivimivi.com/streams/142/master.m3u8
+GENC TV,https://cdn-eu.tivimivi.com/streams/144/master.m3u8
