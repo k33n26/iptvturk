@@ -11,13 +11,13 @@ https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
 - 📺 **belgesel**: 29 kanal
 - 📺 **haber**: 27 kanal
 - 📺 **yasam**: 24 kanal
-- 📺 **muzik**: 15 kanal
+- 📺 **muzik**: 17 kanal
 - 📺 **filmler**: 11 kanal
 - 📺 **avrupa**: 9 kanal
 - 📺 **cocuk cizgi**: 7 kanal
 - 📺 **kibris tv**: 7 kanal
 - 📺 **dinlenme**: 3 kanal
 
-Güncelleme: `2026-02-15 09:51:17 (TR)`
-Toplam Kanal: **338**
+Güncelleme: `2026-02-15 09:53:38 (TR)`
+Toplam Kanal: **340**
 <!-- STATS-END -->
