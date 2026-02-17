@@ -105,6 +105,8 @@ http://87.121.104.29:1855/rahatlaticises/stream.m3u8
 http://87.121.104.29:1855/ormansesleri/stream.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINE
 http://87.121.104.29:1855/somine/stream.m3u8
+#EXTINF:-1 group-title="dinlenme",DOGA-YASAMI
+http://gr.seetv.cc/play/324/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:-1 group-title="filmler",Recep.Ivedik.1
 https://vidmody.com/mm/tt1193516/main/index.m3u8
 #EXTINF:-1 group-title="filmler",Recep.Ivedik.2

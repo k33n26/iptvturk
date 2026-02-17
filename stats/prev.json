@@ -1,5 +1,5 @@
 {
-  "total": 345,
+  "total": 346,
   "groups": {
     "sinema dizi": 55,
     "spor": 29,
@@ -7,7 +7,7 @@
     "cocuk cizgi": 11,
     "ulusal": 35,
     "haber": 27,
-    "dinlenme": 3,
+    "dinlenme": 4,
     "yerel": 87,
     "avrupa": 9,
     "belgesel": 30,
@@ -15,5 +15,5 @@
     "muzik": 17,
     "kibris tv": 7
   },
-  "updated": "2026-02-17 16:17:29 (TR)"
+  "updated": "2026-02-17 18:54:27 (TR)"
 }
