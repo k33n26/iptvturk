@@ -333,20 +333,22 @@ http://162.212.179.33:80/gin-trn09/gt-sinevizyon-1/index.m3u8
 http://162.212.179.33:80/gin-trn09/gt-sinevizyon-2/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",Sinevizyon3
 http://162.212.179.33:80/gin-trn09/gt-sinevizyon-3/index.m3u8
-#EXTINF:-1 group-title="sinema dizi",BSAction
+#EXTINF:-1 group-title="sinema dizi",Bein-Action-tr
 http://65.108.239.207/bsaction1/index.m3u8
-#EXTINF:-1 group-title="sinema dizi",BSPremier
+#EXTINF:-1 group-title="sinema dizi",Bein-Premier-tr
 http://65.108.239.207/bspremier1/index.m3u8
-#EXTINF:-1 group-title="sinema dizi",BSFamily
+#EXTINF:-1 group-title="sinema dizi",Bein-Family-tr
 http://65.108.239.207/bsfamily/index.m3u8
-#EXTINF:-1 group-title="sinema dizi",BSBoxOffice1
+#EXTINF:-1 group-title="sinema dizi",Bein-Box-Office-1-tr
 http://65.108.239.207/box1/index.m3u8
-#EXTINF:-1 group-title="sinema dizi",BSBoxOffice2
+#EXTINF:-1 group-title="sinema dizi",Bein-Box-Office-2-tr
 http://65.108.239.207/box2/index.m3u8
-#EXTINF:-1 group-title="sinema dizi",BSBoxOffice3
+#EXTINF:-1 group-title="sinema dizi",Bein-Box-Office-3-tr
 http://65.108.239.207/box3/index.m3u8
-#EXTINF:-1 group-title="sinema dizi",BSStars
+#EXTINF:-1 group-title="sinema dizi",Bein-Stars-tr
 http://65.108.239.207/bsstars/index.m3u8
+#EXTINF:-1 group-title="sinema dizi",KuzeyMax
+http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 #EXTINF:-1 group-title="spor",TRT-SPOR 2K
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="spor",TRT-SPOR-YILDIZ 2K
