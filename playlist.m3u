@@ -27,20 +27,22 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 http://87.121.104.29:1855/naturetimetr/stream.m3u8
 #EXTINF:-1 group-title="belgesel",DMAX ANTIK MISIR
 http://87.121.104.29:1855/dmax/stream.m3u8
+#EXTINF:-1 group-title="belgesel",BizimEv TV
+http://87.121.104.29:1855/bizimevyt/stream.m3u8
 #EXTINF:-1 group-title="belgesel",TARIH TV
-https://kertenkele.denek1544.workers.dev/izle/tarihtv.m3u8
+https://heyheey.denek1544.workers.dev/izle/tarihtv.m3u8
 #EXTINF:-1 group-title="belgesel",VIASAT EXPLORE
-https://kertenkele.denek1544.workers.dev/izle/historychannel.m3u8
+https://heyheey.denek1544.workers.dev/izle/historychannel.m3u8
 #EXTINF:-1 group-title="belgesel",VIASAT HISTORY
-https://kertenkele.denek1544.workers.dev/izle/viasathistory.m3u8
+https://heyheey.denek1544.workers.dev/izle/viasathistory.m3u8
 #EXTINF:-1 group-title="belgesel",LOVE NATURE
-https://kertenkele.denek1544.workers.dev/izle/lovenature.m3u8
+https://heyheey.denek1544.workers.dev/izle/lovenature.m3u8
 #EXTINF:-1 group-title="belgesel",BBC EARTH
-https://kertenkele.denek1544.workers.dev/izle/bbcearthhd.m3u8
+https://heyheey.denek1544.workers.dev/izle/bbcearthhd.m3u8
 #EXTINF:-1 group-title="belgesel",DISCOVERY
-https://belgeselpatr0n.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
+https://yokyokyoky.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
 #EXTINF:-1 group-title="belgesel",IDX
-https://belgeselpatr0n.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=
+https://yokyokyoky.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=
 #EXTINF:-1 group-title="belgesel",DOCUSCREEN
 https://belgeselpatr0n.testworker0y.workers.dev/channel/RG9jdUJveA==
 #EXTINF:-1 group-title="belgesel",BBCEarth
@@ -53,8 +55,12 @@ http://65.108.239.207:80/discs/index.m3u8
 http://65.108.239.207:80/docubox/index.m3u8
 #EXTINF:-1 group-title="belgesel",DocuScreen(2)
 https://cdn-eu.tivimivi.com/streams/101/master.m3u8
+#EXTINF:-1 group-title="belgesel",DocuScreen(3)
+https://yokyokyoky.testworker0y.workers.dev/channel/RG9jdUJveA==
 #EXTINF:-1 group-title="belgesel",LoveNature
 http://65.108.239.207:80/lovenature/index.m3u8
+#EXTINF:-1 group-title="belgesel",LoveNature(2)
+https://heyheey.denek1544.workers.dev/izle/lovenature.m3u8
 #EXTINF:-1 group-title="belgesel",Tarih-TV
 http://65.108.239.207:80/tarihtv/index.m3u8
 #EXTINF:-1 group-title="belgesel",ViasatHistory
