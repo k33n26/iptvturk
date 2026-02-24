@@ -30,6 +30,7 @@ CİFTCİ TV,https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/play
 TARIM-TV,https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 YAZ-TV,https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist/2.m3u8
 TGRT-BELGESEL,https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+TGRT-BELGESEL(2),https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Tgrt_Belgesel.m3u8?t=1771919148
 AGRO TV,https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8
 
 
