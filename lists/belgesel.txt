@@ -3,20 +3,23 @@ NAT-GEO-CHANNEL,https://saran-live.ercdn.net/natgeohd/index.m3u8
 NAT-GEO-WILD,https://saran-live.ercdn.net/natgeowild/index.m3u8
 NATURE TIME,http://87.121.104.29:1855/naturetimetr/stream.m3u8
 DMAX ANTIK MISIR,http://87.121.104.29:1855/dmax/stream.m3u8
-TARIH TV,https://kertenkele.denek1544.workers.dev/izle/tarihtv.m3u8
-VIASAT EXPLORE,https://kertenkele.denek1544.workers.dev/izle/historychannel.m3u8
-VIASAT HISTORY,https://kertenkele.denek1544.workers.dev/izle/viasathistory.m3u8
-LOVE NATURE,https://kertenkele.denek1544.workers.dev/izle/lovenature.m3u8
-BBC EARTH,https://kertenkele.denek1544.workers.dev/izle/bbcearthhd.m3u8
-DISCOVERY,https://belgeselpatr0n.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
-IDX,https://belgeselpatr0n.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=
+BizimEv TV,http://87.121.104.29:1855/bizimevyt/stream.m3u8
+TARIH TV,https://heyheey.denek1544.workers.dev/izle/tarihtv.m3u8
+VIASAT EXPLORE,https://heyheey.denek1544.workers.dev/izle/historychannel.m3u8
+VIASAT HISTORY,https://heyheey.denek1544.workers.dev/izle/viasathistory.m3u8
+LOVE NATURE,https://heyheey.denek1544.workers.dev/izle/lovenature.m3u8
+BBC EARTH,https://heyheey.denek1544.workers.dev/izle/bbcearthhd.m3u8
+DISCOVERY,https://yokyokyoky.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
+IDX,https://yokyokyoky.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=
 DOCUSCREEN,https://belgeselpatr0n.testworker0y.workers.dev/channel/RG9jdUJveA==
 BBCEarth,http://65.108.239.207:80/bbc/index.m3u8
 Discovery,http://65.108.239.207:80/discovery/index.m3u8
 DiscoveryID,http://65.108.239.207:80/discs/index.m3u8
 DocuScreen,http://65.108.239.207:80/docubox/index.m3u8
 DocuScreen(2),https://cdn-eu.tivimivi.com/streams/101/master.m3u8
+DocuScreen(3),https://yokyokyoky.testworker0y.workers.dev/channel/RG9jdUJveA==
 LoveNature,http://65.108.239.207:80/lovenature/index.m3u8
+LoveNature(2),https://heyheey.denek1544.workers.dev/izle/lovenature.m3u8
 Tarih-TV,http://65.108.239.207:80/tarihtv/index.m3u8
 ViasatHistory,http://65.108.239.207:80/viasathistory/index.m3u8
 DMAX,https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
