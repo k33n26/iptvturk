@@ -46,25 +46,25 @@ https://yokyokyoky.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=
 #EXTINF:-1 group-title="belgesel",DOCUSCREEN
 https://belgeselpatr0n.testworker0y.workers.dev/channel/RG9jdUJveA==
 #EXTINF:-1 group-title="belgesel",BBCEarth
-http://65.108.239.207:80/bbc/index.m3u8
+http://65.108.239.207/bbc/index.m3u8
 #EXTINF:-1 group-title="belgesel",Discovery
-http://65.108.239.207:80/discovery/index.m3u8
+http://65.108.239.207/discovery/index.m3u8
 #EXTINF:-1 group-title="belgesel",DiscoveryID
-http://65.108.239.207:80/discs/index.m3u8
+http://65.108.239.207/discs/index.m3u8
 #EXTINF:-1 group-title="belgesel",DocuScreen
-http://65.108.239.207:80/docubox/index.m3u8
+http://65.108.239.207/docubox/index.m3u8
 #EXTINF:-1 group-title="belgesel",DocuScreen(2)
 https://cdn-eu.tivimivi.com/streams/101/master.m3u8
 #EXTINF:-1 group-title="belgesel",DocuScreen(3)
 https://yokyokyoky.testworker0y.workers.dev/channel/RG9jdUJveA==
 #EXTINF:-1 group-title="belgesel",LoveNature
-http://65.108.239.207:80/lovenature/index.m3u8
+http://65.108.239.207/lovenature/index.m3u8
 #EXTINF:-1 group-title="belgesel",LoveNature(2)
 https://heyheey.denek1544.workers.dev/izle/lovenature.m3u8
 #EXTINF:-1 group-title="belgesel",Tarih-TV
-http://65.108.239.207:80/tarihtv/index.m3u8
+http://65.108.239.207/tarihtv/index.m3u8
 #EXTINF:-1 group-title="belgesel",ViasatHistory
-http://65.108.239.207:80/viasathistory/index.m3u8
+http://65.108.239.207/viasathistory/index.m3u8
 #EXTINF:-1 group-title="belgesel",DMAX
 https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
 #EXTINF:-1 group-title="belgesel",TLC
