@@ -115,10 +115,76 @@ http://87.121.104.29:1855/rahatlaticises/stream.m3u8
 http://87.121.104.29:1855/ormansesleri/stream.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINE
 http://87.121.104.29:1855/somine/stream.m3u8
+#EXTINF:-1 group-title="dinlenme",SOMINE2
+http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 group-title="dinlenme",DOGA-YASAMI
 http://gr.seetv.cc/play/324/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:-1 group-title="dinlenme",YAZ-TV
 https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist/2.m3u8
+#EXTINF:-1 group-title="dinlenme",SU SESI
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="dinlenme",KUZEY ISIKLARI
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 group-title="dinlenme",KUZEY ISIKLARI2
+http://iptv.prosto.tv:7000/ch349/video.m3u8
+#EXTINF:-1 group-title="dinlenme",SPACE STREAM
+http://iptv.prosto.tv:7000/ch314/video.m3u8
+#EXTINF:-1 group-title="dinlenme",ZOO STREAM
+http://iptv.prosto.tv:7000/ch319/video.m3u8
+#EXTINF:-1 group-title="dinlenme",GEZI STREAM
+http://iptv.prosto.tv:7000/ch351/video.m3u8
+#EXTINF:-1 group-title="dinlenme",GELINCIK STREAM
+http://iptv.prosto.tv:7000/ch302/video.m3u8
+#EXTINF:-1 group-title="dinlenme",RAIN STREAM
+https://iptv.prosto.tv/ch336/video.m3u8
+#EXTINF:-1 group-title="dinlenme",RAIN STREAM2
+http://iptv.prosto.tv:7000/ch304/video.m3u8
+#EXTINF:-1 group-title="dinlenme",PROSTO UKRAINE
+http://iptv.prosto.tv:7000/ch303/video.m3u8
+#EXTINF:-1 group-title="dinlenme",AKVARYUM
+http://iptv.prosto.tv:7000/ch305/video.m3u8
+#EXTINF:-1 group-title="dinlenme",AKVARYUM2
+http://iptv.prosto.tv:7000/ch325/video.m3u8
+#EXTINF:-1 group-title="dinlenme",AVIA STREAM
+http://iptv.prosto.tv:7000/ch306/video.m3u8
+#EXTINF:-1 group-title="dinlenme",EKO STREAM
+http://iptv.prosto.tv:7000/ch316/video.m3u8
+#EXTINF:-1 group-title="dinlenme",STREAM CITY
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+#EXTINF:-1 group-title="dinlenme",CAMP STREAM
+http://iptv.prosto.tv:7000/ch328/video.m3u8
+#EXTINF:-1 group-title="dinlenme",SNOW STREAM
+https://iptv.prosto.tv/ch327/video.m3u8
+#EXTINF:-1 group-title="dinlenme",SELALE STREAM
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+#EXTINF:-1 group-title="dinlenme",SELALE STREAM2
+http://iptv.prosto.tv:7000/ch339/video.m3u8
+#EXTINF:-1 group-title="dinlenme",ORMAN STREAM
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+#EXTINF:-1 group-title="dinlenme",ORMAN AKARSU
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+#EXTINF:-1 group-title="dinlenme",DENIZ STREAM
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+#EXTINF:-1 group-title="dinlenme",DENIZ STREAM2
+http://iptv.prosto.tv:7000/ch335/video.m3u8
+#EXTINF:-1 group-title="dinlenme",DAGLAR STREAM
+http://iptv.prosto.tv:7000/ch340/video.m3u8
+#EXTINF:-1 group-title="dinlenme",PROSTO FISHING
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="dinlenme",AKARSU STREAM
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+#EXTINF:-1 group-title="dinlenme",DOGA STREAM
+http://iptv.prosto.tv:7000/ch341/video.m3u8
+#EXTINF:-1 group-title="dinlenme",DODA STREAM2
+http://iptv.prosto.tv:7000/ch347/video.m3u8
+#EXTINF:-1 group-title="dinlenme",HAVUZ STREAM
+http://iptv.prosto.tv:7000/ch345/video.m3u8
+#EXTINF:-1 group-title="dinlenme",BITKILER STREAM
+http://iptv.prosto.tv:7000/ch346/video.m3u8
+#EXTINF:-1 group-title="dinlenme",TREN STREAM
+http://iptv.prosto.tv:7000/ch348/video.m3u8
+#EXTINF:-1 group-title="dinlenme",FISKIYE STREAM
+http://iptv.prosto.tv:7000/ch350/video.m3u8
 #EXTINF:-1 group-title="filmler",Recep.Ivedik.1
 https://vidmody.com/mm/tt1193516/main/index.m3u8
 #EXTINF:-1 group-title="filmler",Recep.Ivedik.2
@@ -141,6 +207,8 @@ https://vidmody.com/mm/tt1862472/main/index.m3u8
 https://vidmody.com/mm/tt5505316/main/index.m3u8
 #EXTINF:-1 group-title="filmler",Kolpacino.4
 https://vidmody.com/mm/tt29454492/main/index.m3u8
+#EXTINF:-1 group-title="filmler",3 IDIOT
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/3-idiots-hd-film-izle
 #EXTINF:-1 group-title="haber",CNN-TURK
 https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 #EXTINF:-1 group-title="haber",NTV
