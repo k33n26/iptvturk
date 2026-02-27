@@ -33,5 +33,6 @@ TGRT-BELGESEL,https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 TGRT-BELGESEL(2),https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Tgrt_Belgesel.m3u8?t=1771919148
 AGRO TV,https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8
 BeinIZ,http://109.61.81.147:1935/cdn7/4011/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
+YABANTV,http://116.202.238.88/YABANTV_TR/index.m3u8
 
 
