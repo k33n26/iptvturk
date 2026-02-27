@@ -54,6 +54,7 @@ Bein-Box-Office-2-tr,http://65.108.239.207/box2/index.m3u8
 Bein-Box-Office-3-tr,http://65.108.239.207/box3/index.m3u8
 Bein-Stars-tr,http://65.108.239.207/bsstars/index.m3u8
 KuzeyMax,http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
+SARTV MAX,https://boncuktvv.siringa-yetmedi.workers.dev/best4k
 
 
 
