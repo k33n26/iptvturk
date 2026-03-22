@@ -1,9 +1,10 @@
-BIZIMKILER,http://87.121.104.29:1855/trtnostalji/stream2.m3u8
+BIZIMKILER,http://87.121.104.29:1796/trtnostalji/stream2.m3u8
+BIZIMKILER2,https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-KEMAL SUNAL,http://87.121.104.29:1855/kemalsunal/stream.m3u8
-GULSAH FILM,http://87.121.104.29:1855/gulsahfilm/stream.m3u8
-ARZU FILM,http://87.121.104.29:1855/arzufilm/stream.m3u8
-GULDUR GULDUR,http://87.121.104.29:1855/guldurguldur/stream.m3u8
+KEMAL SUNAL,http://87.121.104.29:1796/kemalsunal/stream.m3u8
+GULSAH FILM,http://87.121.104.29:1796/gulsahfilm/stream.m3u8
+ARZU FILM,http://87.121.104.29:1796/arzufilm/stream.m3u8
+GULDUR GULDUR,http://87.121.104.29:1796/guldurguldur/stream.m3u8
 MoviSmartTURK,http://65.108.239.207:80/mvturk/index.m3u8
 SinemaTV,http://65.108.239.207:80/sinema/index.m3u8
 SinemaTV-2,http://65.108.239.207:80/sinema2/index.m3u8
