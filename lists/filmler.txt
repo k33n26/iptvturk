@@ -10,3 +10,24 @@ Kolpacino.2,https://vidmody.com/mm/tt1862472/main/index.m3u8
 Kolpacino.3,https://vidmody.com/mm/tt5505316/main/index.m3u8
 Kolpacino.4,https://vidmody.com/mm/tt29454492/main/index.m3u8
 3 IDIOT,https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/3-idiots-hd-film-izle
+Hokkabaz,https://vidmody.com/vs/tt0827503/main/index.m3u8
+A.R.O.G,https://vidmody.com/vs/tt1286126/main/index.m3u8
+Ali.Baba.Ve.7.Cuceler,https://vidmody.com/vs/tt4728338/main/index.m3u8
+Arif.V.216,https://vidmody.com/vs/tt6697582/main/index.m3u8
+Bifo.CMYLMZ,https://vidmody.com/vs/tt4184166/main/index.m3u8
+Bir.Tat.Bir.Doku,https://vidmody.com/vs/tt0382568/main/index.m3u8
+CM101MMXI.Fundamentals,https://vidmody.com/vs/tt2592910/main/index.m3u8
+CMXXIV,https://vidmody.com/vs/tt39214430/main/index.m3u8
+CMYLMZ,https://vidmody.com/vs/tt1578118/main/index.m3u8
+G.O.R.A,https://vidmody.com/vs/tt0384116/main/index.m3u8
+Her.Sey.Cok.Guzel.Olacak,https://vidmody.com/vs/tt0263438/main/index.m3u8
+Iftarlık.Gazoz,https://vidmody.com/vs/tt5229228/main/index.m3u8
+Yahsi.Batı,https://vidmody.com/vs/tt1567448/main/index.m3u8
+İncir.Reçeli,https://vidmody.com/vs/tt1808197/main/index.m3u8
+İncir.Reçeli.2,https://vidmody.com/vs/tt4003046/main/index.m3u8
+İnşaat,https://vidmody.com/vs/tt0416854/main/index.m3u8
+Neşeli.Hayat,https://vidmody.com/vs/tt1523515/main/index.m3u8
+Organize.İşler,https://vidmody.com/vs/tt0470883/main/index.m3u8
+Organize.İşler.Sazan.Sarmalı,https://vidmody.com/vs/tt8442644/main/index.m3u8
+Pardon,https://vidmody.com/vs/tt0425333/main/index.m3u8
+Toz.Ruhu,https://vidrame.pro/vr/get/36b3bc83/master.m3u8
