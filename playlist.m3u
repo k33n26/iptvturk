@@ -211,6 +211,8 @@ https://vidmody.com/mm/tt29454492/main/index.m3u8
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/3-idiots-hd-film-izle
 #EXTINF:-1 group-title="filmler",Hokkabaz
 https://vidmody.com/vs/tt0827503
+#EXTINF:-1 group-title="filmler",Hokkabaz(2)
+http://movie.okru.workers.dev/?ID=8334988028239
 #EXTINF:-1 group-title="filmler",A.R.O.G
 https://vidmody.com/vs/tt1286126
 #EXTINF:-1 group-title="filmler",Ali.Baba.Ve.7.Cuceler
@@ -247,8 +249,12 @@ https://vidmody.com/vs/tt1523515
 https://vidmody.com/vs/tt0470883
 #EXTINF:-1 group-title="filmler",Organize.İşler.Sazan.Sarmalı
 https://vidmody.com/vs/tt8442644
+#EXTINF:-1 group-title="filmler",Organize.İşler.Sazan.Sarmalı(2)
+http://movie.okru.workers.dev/?ID=8867336890703
 #EXTINF:-1 group-title="filmler",Pardon
 https://vidmody.com/vs/tt0425333
+#EXTINF:-1 group-title="filmler",Pardon(2)
+http://movie.okru.workers.dev/?ID=8333498526031
 #EXTINF:-1 group-title="filmler",Toz.Ruhu
 https://vidrame.pro/vr/get/36b3bc83/master.m3u8
 #EXTINF:-1 group-title="filmler",Ölümlü.Dünya
@@ -256,11 +262,29 @@ https://vidmody.com/vs/tt7748244
 #EXTINF:-1 group-title="filmler",Öümlü.Dünya.2
 https://vidmody.com/vs/tt27933364
 #EXTINF:-1 group-title="filmler",Sarı.Mersedes
-https://mp4.movie-yt.workers.dev/?ID=pijHxwPD4Z8
+https://vidmody.com/vs/tt0200637
 #EXTINF:-1 group-title="filmler",Züğürt.Ağa
 https://mp4.movie-yt.workers.dev/?ID=Stc2HE-RKTg
-#EXTINF:-1 group-title="filmler",Züğürt.Ağa.2
+#EXTINF:-1 group-title="filmler",Züğürt.Ağa(2)
 http://movie.okru.workers.dev/?ID=6431635482937
+#EXTINF:-1 group-title="filmler",Züğürt.Ağa.1080p
+http://movie.okru.workers.dev/?ID=7975846750543
+#EXTINF:-1 group-title="filmler",Muhsin.Bey
+http://movie.okru.workers.dev/?ID=8352865921359
+#EXTINF:-1 group-title="filmler",Yoksul
+http://movie.okru.workers.dev/?ID=8295538829647
+#EXTINF:-1 group-title="filmler",Zübük
+http://movie.okru.workers.dev/?ID=8449721510223
+#EXTINF:-1 group-title="filmler",Çiçek.Abbas
+http://movie.okru.workers.dev/?ID=8491757545807
+#EXTINF:-1 group-title="filmler",Limonata
+http://movie.okru.workers.dev/?ID=8906810992975
+#EXTINF:-1 group-title="filmler",Cinayet.Süsü
+http://movie.okru.workers.dev/?ID=8925147244879
+#EXTINF:-1 group-title="filmler",Selamsız.Bandosu
+http://movie.okru.workers.dev/?ID=8929556703567
+#EXTINF:-1 group-title="filmler",Banker.Bilo
+http://movie.okru.workers.dev/?ID=8932107626831
 #EXTINF:-1 group-title="haber",CNN-TURK
 https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 #EXTINF:-1 group-title="haber",NTV
