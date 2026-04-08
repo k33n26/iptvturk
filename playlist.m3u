@@ -285,6 +285,8 @@ http://movie.okru.workers.dev/?ID=8925147244879
 http://movie.okru.workers.dev/?ID=8929556703567
 #EXTINF:-1 group-title="filmler",Banker.Bilo
 http://movie.okru.workers.dev/?ID=8932107626831
+#EXTINF:-1 group-title="filmler",Vizontele
+http://movie.okru.workers.dev/?ID=7976006789455
 #EXTINF:-1 group-title="haber",CNN-TURK
 https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 #EXTINF:-1 group-title="haber",NTV
