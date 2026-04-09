@@ -110,11 +110,11 @@ http://87.121.104.29:1855/cartoonnetworkyt/stream3.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",AZOOMEE
 https://cdn-eu.tivimivi.com/streams/102/master.m3u8
 #EXTINF:-1 group-title="dinlenme",KUSLAR
-http://87.121.104.29:1855/rahatlaticises/stream.m3u8
+http://87.121.104.29:1798/rahatlaticises/stream.m3u8
 #EXTINF:-1 group-title="dinlenme",ORMAN
-http://87.121.104.29:1855/ormansesleri/stream.m3u8
+http://87.121.104.29:1798/ormansesleri/stream.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINE
-http://87.121.104.29:1855/somine/stream.m3u8
+http://87.121.104.29:1798/somine/stream.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINE2
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 group-title="dinlenme",DOGA-YASAMI
