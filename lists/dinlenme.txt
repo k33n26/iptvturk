@@ -1,6 +1,6 @@
-KUSLAR,http://87.121.104.29:1855/rahatlaticises/stream.m3u8
-ORMAN,http://87.121.104.29:1855/ormansesleri/stream.m3u8
-SOMINE,http://87.121.104.29:1855/somine/stream.m3u8
+KUSLAR,http://87.121.104.29:1798/rahatlaticises/stream.m3u8
+ORMAN,http://87.121.104.29:1798/ormansesleri/stream.m3u8
+SOMINE,http://87.121.104.29:1798/somine/stream.m3u8
 SOMINE2,http://iptv.prosto.tv:7000/ch318/video.m3u8
 DOGA-YASAMI,http://gr.seetv.cc/play/324/1966B8DE7EC6FEE/video.m3u8
 YAZ-TV,https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist/2.m3u8
