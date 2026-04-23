@@ -1,13 +1,13 @@
-TRT-SPOR 2K,https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
-TRT-SPOR-YILDIZ 2K,https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8
-BSPORT HABER,http://87.121.104.29:1855/bshaberyt/stream.m3u8
-SPORTS TV,https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-TJK TV,https://tjktv-live.tjk.org/tjktv_1080p.m3u8
-FB TV HD,https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+trt-spor-tr,https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
+trt-spor-yildiz-tr,https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8
+bein-sports-haber-tr,http://87.121.104.29:1071/bshaberyt/stream.m3u8
+sports-tv-tr,https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+tjk-tv-tr,https://tjktv-live.tjk.org/tjktv_1080p.m3u8
+fenerbahce-tv-tr,https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 HT SPOR,https://ciner-live.ercdn.net/htspor/htspor.m3u8
 0 TV,https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 A SPOR,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
-A SPOR(2),https://cdn-eu.tivimivi.com/streams/122/master.m3u8
+A SPOR,https://cdn-eu.tivimivi.com/streams/122/master.m3u8
 EKOL SPORTS,https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 MACKOLIK TV,https://mackolik-live.ercdn.net/mackolik/mackolik_720p.m3u8
 TABII-SPOR,https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
@@ -16,14 +16,17 @@ TABII-SPOR2,https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
 TABII-SPOR3,https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
 TABII-SPOR4,https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
 TABII-SPOR5,https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
-TABII-SPOR6,https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+TABII-SPOR6,https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080P.m3u8
+TABII-SPOR7,https://pz2rt7nw1mr9sh4vl6xk3gj5b.medya.trt.com.tr/master_1080p.m3u8
 TR-Sports,http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
-Sporsmart 1,http://65.108.239.207/smart1/index.m3u8
-Sporsmart 2,http://65.108.239.207/smart2/index.m3u8
-EuroSport 1,http://65.108.239.207/euro1/index.m3u8
-EuroSport 2,http://65.108.239.207/euro2/index.m3u8
+spor-smart-hd-tr 1,http://65.108.239.207/smart1/index.m3u8
+Spor-smart-hd-tr 2,http://65.108.239.207/smart2/index.m3u8
+Euro Sport 1,http://65.108.239.207/euro1/index.m3u8
+Euro Sport 2,http://65.108.239.207/euro2/index.m3u8
 Tivibu Spor 1,http://65.108.239.207/t1/index.m3u8
 Tivibu Spor 2,http://65.108.239.207/t2/index.m3u8
 Tivibu Spor 3,http://65.108.239.207/t3/index.m3u8
 Tivibu Spor 4,http://65.108.239.207/t4/index.m3u8
 Cosmo Sports,https://cdn-eu.tivimivi.com/streams/152/master.m3u8
+
+
