@@ -390,19 +390,19 @@ https://cdn-eu.tivimivi.com/streams/154/master.m3u8
 #EXTINF:-1 group-title="muzik",Dance FM HD
 https://cdn-eu.tivimivi.com/streams/135/master.m3u8
 #EXTINF:-1 group-title="sinema dizi",BIZIMKILER
-http://87.121.104.29:1798/trtnostalji/stream2.m3u8
+http://87.121.104.29:1071/trtnostalji/stream2.m3u8
 #EXTINF:-1 group-title="sinema dizi",BIZIMKILER2
 https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",KEMAL SUNAL
-http://87.121.104.29:1798/kemalsunal/stream.m3u8
+http://87.121.104.29:1071/kemalsunal/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",GULSAH FILM
-http://87.121.104.29:1798/gulsahfilm/stream.m3u8
+http://87.121.104.29:1071/gulsahfilm/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",ARZU FILM
-http://87.121.104.29:1798/arzufilm/stream.m3u8
+http://87.121.104.29:1071/arzufilm/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",GULDUR GULDUR
-http://87.121.104.29:1798/guldurguldur/stream.m3u8
+http://87.121.104.29:1071/guldurguldur/stream.m3u8
 #EXTINF:-1 group-title="sinema dizi",MoviSmartTURK
 http://65.108.239.207:80/mvturk/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",SinemaTV
