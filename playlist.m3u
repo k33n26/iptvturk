@@ -24,11 +24,11 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 group-title="belgesel",NAT-GEO-WILD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 group-title="belgesel",NATURE TIME
-http://87.121.104.29:1798/naturetimetr/stream.m3u8
+http://87.121.104.29:1071/naturetimetr/stream.m3u8
 #EXTINF:-1 group-title="belgesel",DMAX ANTIK MISIR
-http://87.121.104.29:1798/dmax/stream.m3u8
+http://87.121.104.29:1071/dmax/stream.m3u8
 #EXTINF:-1 group-title="belgesel",BizimEv TV
-http://87.121.104.29:1798/bizimevyt/stream.m3u8
+http://87.121.104.29:1071/bizimevyt/stream.m3u8
 #EXTINF:-1 group-title="belgesel",TARIH TV
 https://heyheey.denek1544.workers.dev/izle/tarihtv.m3u8
 #EXTINF:-1 group-title="belgesel",VIASAT EXPLORE
@@ -110,11 +110,11 @@ http://87.121.104.29:1855/cartoonnetworkyt/stream3.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",AZOOMEE
 https://cdn-eu.tivimivi.com/streams/102/master.m3u8
 #EXTINF:-1 group-title="dinlenme",KUSLAR
-http://87.121.104.29:1798/rahatlaticises/stream.m3u8
+http://87.121.104.29:1071/rahatlaticises/stream.m3u8
 #EXTINF:-1 group-title="dinlenme",ORMAN
-http://87.121.104.29:1798/ormansesleri/stream.m3u8
+http://87.121.104.29:1071/ormansesleri/stream.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINE
-http://87.121.104.29:1798/somine/stream.m3u8
+http://87.121.104.29:1071/somine/stream.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINE2
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 group-title="dinlenme",DOGA-YASAMI
@@ -505,17 +505,17 @@ http://65.108.239.207/bsstars/index.m3u8
 http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",SARTV MAX
 https://boncuktvv.siringa-yetmedi.workers.dev/best4k
-#EXTINF:-1 group-title="spor",TRT-SPOR 2K
+#EXTINF:-1 group-title="spor",trt-spor-tr
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 group-title="spor",TRT-SPOR-YILDIZ 2K
+#EXTINF:-1 group-title="spor",trt-spor-yildiz-tr
 https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 group-title="spor",BSPORT HABER
-http://87.121.104.29:1855/bshaberyt/stream.m3u8
-#EXTINF:-1 group-title="spor",SPORTS TV
+#EXTINF:-1 group-title="spor",bein-sports-haber-tr
+http://87.121.104.29:1071/bshaberyt/stream.m3u8
+#EXTINF:-1 group-title="spor",sports-tv-tr
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 group-title="spor",TJK TV
+#EXTINF:-1 group-title="spor",tjk-tv-tr
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
-#EXTINF:-1 group-title="spor",FB TV HD
+#EXTINF:-1 group-title="spor",fenerbahce-tv-tr
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 group-title="spor",HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
@@ -523,7 +523,7 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="spor",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
-#EXTINF:-1 group-title="spor",A SPOR(2)
+#EXTINF:-1 group-title="spor",A SPOR
 https://cdn-eu.tivimivi.com/streams/122/master.m3u8
 #EXTINF:-1 group-title="spor",EKOL SPORTS
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
@@ -542,16 +542,18 @@ https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="spor",TABII-SPOR5
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="spor",TABII-SPOR6
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080P.m3u8
+#EXTINF:-1 group-title="spor",TABII-SPOR7
+https://pz2rt7nw1mr9sh4vl6xk3gj5b.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 group-title="spor",TR-Sports
 http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
-#EXTINF:-1 group-title="spor",Sporsmart 1
+#EXTINF:-1 group-title="spor",spor-smart-hd-tr 1
 http://65.108.239.207/smart1/index.m3u8
-#EXTINF:-1 group-title="spor",Sporsmart 2
+#EXTINF:-1 group-title="spor",Spor-smart-hd-tr 2
 http://65.108.239.207/smart2/index.m3u8
-#EXTINF:-1 group-title="spor",EuroSport 1
+#EXTINF:-1 group-title="spor",Euro Sport 1
 http://65.108.239.207/euro1/index.m3u8
-#EXTINF:-1 group-title="spor",EuroSport 2
+#EXTINF:-1 group-title="spor",Euro Sport 2
 http://65.108.239.207/euro2/index.m3u8
 #EXTINF:-1 group-title="spor",Tivibu Spor 1
 http://65.108.239.207/t1/index.m3u8
