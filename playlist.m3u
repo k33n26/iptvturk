@@ -393,6 +393,10 @@ https://cdn-eu.tivimivi.com/streams/135/master.m3u8
 http://87.121.104.29:1071/trtnostalji/stream2.m3u8
 #EXTINF:-1 group-title="sinema dizi",BIZIMKILER2
 https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
+#EXTINF:-1 group-title="sinema dizi",BIZIMKILERken
+https://kytv.k33n26.workers.dev/trtnostalji.m3u8
+#EXTINF:-1 group-title="sinema dizi",Bizim EV TV
+https://kytv.k33n26.workers.dev/bizimevtv.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",KEMAL SUNAL
