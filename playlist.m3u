@@ -25,7 +25,7 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 group-title="belgesel",NATURE TIME
 http://87.121.104.29:1071/naturetimetr/stream.m3u8
-#EXTINF:-1 group-title="belgesel",NATURE TIME-1(k33n26)
+#EXTINF:-1 group-title="belgesel",NATURE TIME(k33n26)
 https://kytv.k33n26.workers.dev/nature1.m3u8
 #EXTINF:-1 group-title="belgesel",DMAX ANTIK MISIR
 http://87.121.104.29:1071/dmax/stream.m3u8
