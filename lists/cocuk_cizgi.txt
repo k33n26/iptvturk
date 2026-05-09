@@ -6,6 +6,7 @@ DISNEY-JUNIOR,https://saran-live.ercdn.net/disneyjunior/index.m3u8
 BABY-TV,https://saran-live.ercdn.net/babytv/index.m3u8
 CARTOON NETWORK,http://65.108.239.207/cartoonnetwork/index.m3u8
 CARTOON NETWORK(2),https://cdn-eu.tivimivi.com/streams/151/master.m3u8
+CARTOON NETWORK(k33n26),https://kytv.k33n26.workers.dev/carton.m3u8
 COCUKSMART,https://testcable.denek1544.workers.dev/channel/w4dvY3VrIFNtYXJ0
 KRAL SAKIR,http://87.121.104.29:1855/cartoonnetworkyt/stream3.m3u8
 AZOOMEE,https://cdn-eu.tivimivi.com/streams/102/master.m3u8
