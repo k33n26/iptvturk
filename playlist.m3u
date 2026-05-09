@@ -403,6 +403,8 @@ https://kytv.k33n26.workers.dev/trtnostalji.m3u8
 https://kytv.k33n26.workers.dev/sabantv.m3u8
 #EXTINF:-1 group-title="sinema dizi",Güldür Güldür(k33n26)
 https://kytv.k33n26.workers.dev/guldur.m3u8
+#EXTINF:-1 group-title="sinema dizi",Yesilcam TV(k33n26)
+https://kytv.k33n26.workers.dev/yesilcam.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",KEMAL SUNAL
