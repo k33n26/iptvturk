@@ -119,6 +119,8 @@ http://87.121.104.29:1071/ormansesleri/stream.m3u8
 http://87.121.104.29:1071/somine/stream.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINE2
 http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1 group-title="dinlenme",SOMINETV(k33n26)
+https://kytv.k33n26.workers.dev/sominetv.m3u8
 #EXTINF:-1 group-title="dinlenme",DOGA-YASAMI
 http://gr.seetv.cc/play/324/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:-1 group-title="dinlenme",YAZ-TV
