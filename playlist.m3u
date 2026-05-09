@@ -415,6 +415,8 @@ https://kytv.k33n26.workers.dev/gulsah.m3u8
 https://kytv.k33n26.workers.dev/avsar.m3u8
 #EXTINF:-1 group-title="sinema dizi",Türk Filmleri(k33n26)
 https://kytv.k33n26.workers.dev/turkfilm.m3u8
+#EXTINF:-1 group-title="sinema dizi",Fanatik Film(k33n26)
+https://kytv.k33n26.workers.dev/fanatikfilm.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",KEMAL SUNAL
