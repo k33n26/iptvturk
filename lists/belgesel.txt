@@ -10,6 +10,7 @@ Tgrt Belgesel(k33n26),https://kytv.k33n26.workers.dev/tgrtb.m3u8
 Toprak TV(k33n26),https://kytv.k33n26.workers.dev/topraktv.m3u8
 BushCraft(k33n26),https://kytv.k33n26.workers.dev/bushcraft.m3u8
 Dünya Turu(k33n26),https://kytv.k33n26.workers.dev/dunya.m3u8
+Avrupa Turu(k33n26),https://kytv.k33n26.workers.dev/avrupa.m3u8
 TARIH TV,https://heyheey.denek1544.workers.dev/izle/tarihtv.m3u8
 VIASAT EXPLORE,https://heyheey.denek1544.workers.dev/izle/historychannel.m3u8
 VIASAT HISTORY,https://heyheey.denek1544.workers.dev/izle/viasathistory.m3u8
