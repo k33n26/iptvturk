@@ -2,6 +2,7 @@ TRT BELGESEL 2K,https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 NAT-GEO-CHANNEL,https://saran-live.ercdn.net/natgeohd/index.m3u8
 NAT-GEO-WILD,https://saran-live.ercdn.net/natgeowild/index.m3u8
 NATURE TIME,http://87.121.104.29:1071/naturetimetr/stream.m3u8
+NATURE TIME-1(k33n26),https://kytv.k33n26.workers.dev/nature1.m3u8
 DMAX ANTIK MISIR,http://87.121.104.29:1071/dmax/stream.m3u8
 BizimEv TV,http://87.121.104.29:1071/bizimevyt/stream.m3u8
 BizimEv TV(k33n26),https://kytv.k33n26.workers.dev/bizimevtv.m3u8
