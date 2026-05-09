@@ -421,6 +421,8 @@ https://kytv.k33n26.workers.dev/turkfilm2.m3u8
 https://kytv.k33n26.workers.dev/fanatikfilm.m3u8
 #EXTINF:-1 group-title="sinema dizi",Ersoy Filmcilik(k33n26)
 https://kytv.k33n26.workers.dev/ersoy.m3u8
+#EXTINF:-1 group-title="sinema dizi",Seksenler(k33n26)
+https://kytv.k33n26.workers.dev/seksenler.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",KEMAL SUNAL
