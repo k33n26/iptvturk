@@ -397,7 +397,9 @@ http://87.121.104.29:1071/trtnostalji/stream2.m3u8
 https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
 #EXTINF:-1 group-title="sinema dizi",BIZIMKILER(k33n26)
 https://kytv.k33n26.workers.dev/trtnostalji.m3u8
-#EXTINF:-1 group-title="sinema dizi",Güldür Güldür
+#EXTINF:-1 group-title="sinema dizi",Saban TV(k33n26)
+https://kytv.k33n26.workers.dev/sabantv.m3u8
+#EXTINF:-1 group-title="sinema dizi",Güldür Güldür(k33n26)
 https://kytv.k33n26.workers.dev/guldur.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
