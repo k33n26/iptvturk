@@ -1,4 +1,4 @@
-CNN-TURK,https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
+CNN-TURK(k33n26),https://kytv.k33n26.workers.dev/cnnturk.m3u8
 NTV,https://dsmartgo-live.ercdn.net/dsmartgo/ntv/ntv.isml/ntv.m3u8
 HABERGLOBAL,https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 HABERTURK,https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
