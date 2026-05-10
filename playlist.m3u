@@ -131,13 +131,7 @@ https://testcable.denek1544.workers.dev/channel/w4dvY3VrIFNtYXJ0
 http://87.121.104.29:1855/cartoonnetworkyt/stream3.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",AZOOMEE
 https://cdn-eu.tivimivi.com/streams/102/master.m3u8
-#EXTINF:-1 group-title="dinlenme",KUSLAR
-http://87.121.104.29:1071/rahatlaticises/stream.m3u8
-#EXTINF:-1 group-title="dinlenme",ORMAN
-http://87.121.104.29:1071/ormansesleri/stream.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINE
-http://87.121.104.29:1071/somine/stream.m3u8
-#EXTINF:-1 group-title="dinlenme",SOMINE2
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINETV(k33n26)
 https://kytv.k33n26.workers.dev/sominetv.m3u8
@@ -149,6 +143,8 @@ https://kytv.k33n26.workers.dev/dreamlife.m3u8
 https://kytv.k33n26.workers.dev/waterfall.m3u8
 #EXTINF:-1 group-title="dinlenme",Calm River(k33n26)
 https://kytv.k33n26.workers.dev/calmriver.m3u8
+#EXTINF:-1 group-title="dinlenme",Amazing Place(k33n26)
+https://kytv.k33n26.workers.dev/amazingplace.m3u8
 #EXTINF:-1 group-title="dinlenme",DOGA-YASAMI
 http://gr.seetv.cc/play/324/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:-1 group-title="dinlenme",YAZ-TV
