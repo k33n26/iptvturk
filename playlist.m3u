@@ -325,6 +325,8 @@ https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 group-title="haber",HALK TV(k33n26)
 https://kytv.k33n26.workers.dev/halktv.m3u8
+#EXTINF:-1 group-title="haber",SZC TV(k33n26)
+https://kytv.k33n26.workers.dev/szctv.m3u8
 #EXTINF:-1 group-title="haber",TELE 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1 group-title="haber",TELE 2
