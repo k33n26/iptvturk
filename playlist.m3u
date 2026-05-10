@@ -43,20 +43,6 @@ https://kytv.k33n26.workers.dev/dunya.m3u8
 https://kytv.k33n26.workers.dev/avrupa.m3u8
 #EXTINF:-1 group-title="belgesel",Türkiye Turu(k33n26)
 https://kytv.k33n26.workers.dev/turkiye.m3u8
-#EXTINF:-1 group-title="belgesel",TARIH TV
-https://heyheey.denek1544.workers.dev/izle/tarihtv.m3u8
-#EXTINF:-1 group-title="belgesel",VIASAT EXPLORE
-https://heyheey.denek1544.workers.dev/izle/historychannel.m3u8
-#EXTINF:-1 group-title="belgesel",VIASAT HISTORY
-https://heyheey.denek1544.workers.dev/izle/viasathistory.m3u8
-#EXTINF:-1 group-title="belgesel",LOVE NATURE
-https://heyheey.denek1544.workers.dev/izle/lovenature.m3u8
-#EXTINF:-1 group-title="belgesel",BBC EARTH
-https://heyheey.denek1544.workers.dev/izle/bbcearthhd.m3u8
-#EXTINF:-1 group-title="belgesel",DISCOVERY
-https://yokyokyoky.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
-#EXTINF:-1 group-title="belgesel",IDX
-https://yokyokyoky.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=
 #EXTINF:-1 group-title="belgesel",DOCUSCREEN
 https://belgeselpatr0n.testworker0y.workers.dev/channel/RG9jdUJveA==
 #EXTINF:-1 group-title="belgesel",BBCEarth
@@ -69,12 +55,8 @@ http://65.108.239.207/discs/index.m3u8
 http://65.108.239.207/docubox/index.m3u8
 #EXTINF:-1 group-title="belgesel",DocuScreen(2)
 https://cdn-eu.tivimivi.com/streams/101/master.m3u8
-#EXTINF:-1 group-title="belgesel",DocuScreen(3)
-https://yokyokyoky.testworker0y.workers.dev/channel/RG9jdUJveA==
 #EXTINF:-1 group-title="belgesel",LoveNature
 http://65.108.239.207/lovenature/index.m3u8
-#EXTINF:-1 group-title="belgesel",LoveNature(2)
-https://heyheey.denek1544.workers.dev/izle/lovenature.m3u8
 #EXTINF:-1 group-title="belgesel",Tarih-TV
 http://65.108.239.207/tarihtv/index.m3u8
 #EXTINF:-1 group-title="belgesel",ViasatHistory
