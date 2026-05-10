@@ -455,6 +455,8 @@ https://kytv.k33n26.workers.dev/emret.m3u8
 https://kytv.k33n26.workers.dev/kurt.m3u8
 #EXTINF:-1 group-title="sinema dizi",Kurtlar Vadisi Pusu(k33n26)
 https://kytv.k33n26.workers.dev/kurtpusu.m3u8
+#EXTINF:-1 group-title="sinema dizi",Behzat Ç(k33n26)
+https://kytv.k33n26.workers.dev/behzat.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",KEMAL SUNAL
