@@ -351,6 +351,8 @@ https://dsmartgo-live.ercdn.net/dsmartgo/haberturk/haberturk.isml/haberturk.m3u8
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 group-title="haber",TV100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+#EXTINF:-1 group-title="haber",TV100(k33n26)
+https://kytv.k33n26.workers.dev/tv100.m3u8
 #EXTINF:-1 group-title="haber",TVnet
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 group-title="haber",TYT TURK
