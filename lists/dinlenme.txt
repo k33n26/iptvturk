@@ -5,6 +5,7 @@ Dream Life(k33n26),https://kytv.k33n26.workers.dev/dreamlife.m3u8
 WaterFall(k33n26),https://kytv.k33n26.workers.dev/waterfall.m3u8
 Calm River(k33n26),https://kytv.k33n26.workers.dev/calmriver.m3u8
 Amazing Place(k33n26),https://kytv.k33n26.workers.dev/amazingplace.m3u8
+Hidden Mountain(k33n26),https://kytv.k33n26.workers.dev/hiddenmountain.m3u8
 DOGA-YASAMI,http://gr.seetv.cc/play/324/1966B8DE7EC6FEE/video.m3u8
 YAZ-TV,https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist/2.m3u8
 SU SESI,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
