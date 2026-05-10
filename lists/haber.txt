@@ -26,5 +26,6 @@ ULKE TV,https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 TH TURK HABER,https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 YENI CAG TV,https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8
 LIDER HABER,http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+LIDER HABER(k33n26),https://kytv.k33n26.workers.dev/lider.m3u8
 A HABER,http://65.108.239.207/ahaber/index.m3u8
 A HABER(k33n26),https://kytv.k33n26.workers.dev/ahaber.m3u8
