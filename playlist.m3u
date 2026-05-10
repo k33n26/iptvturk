@@ -145,6 +145,8 @@ https://kytv.k33n26.workers.dev/waterfall.m3u8
 https://kytv.k33n26.workers.dev/calmriver.m3u8
 #EXTINF:-1 group-title="dinlenme",Amazing Place(k33n26)
 https://kytv.k33n26.workers.dev/amazingplace.m3u8
+#EXTINF:-1 group-title="dinlenme",Hidden Mountain(k33n26)
+https://kytv.k33n26.workers.dev/hiddenmountain.m3u8
 #EXTINF:-1 group-title="dinlenme",DOGA-YASAMI
 http://gr.seetv.cc/play/324/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:-1 group-title="dinlenme",YAZ-TV
