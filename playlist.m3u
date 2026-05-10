@@ -147,6 +147,8 @@ https://kytv.k33n26.workers.dev/relax.m3u8
 https://kytv.k33n26.workers.dev/dreamlife.m3u8
 #EXTINF:-1 group-title="dinlenme",WaterFall(k33n26)
 https://kytv.k33n26.workers.dev/waterfall.m3u8
+#EXTINF:-1 group-title="dinlenme",Calm River(k33n26)
+https://kytv.k33n26.workers.dev/calmriver.m3u8
 #EXTINF:-1 group-title="dinlenme",DOGA-YASAMI
 http://gr.seetv.cc/play/324/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:-1 group-title="dinlenme",YAZ-TV
