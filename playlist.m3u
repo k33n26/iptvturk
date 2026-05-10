@@ -86,7 +86,7 @@ http://65.108.239.207/viasathistory/index.m3u8
 #EXTINF:-1 group-title="belgesel",DMAX
 https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
 #EXTINF:-1 group-title="belgesel",TLC
-https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/tlc.m3u8
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 #EXTINF:-1 group-title="belgesel",CGTN DOCUMENTARY
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
 #EXTINF:-1 group-title="belgesel",GZT
