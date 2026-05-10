@@ -31,7 +31,7 @@ LoveNature(2),https://heyheey.denek1544.workers.dev/izle/lovenature.m3u8
 Tarih-TV,http://65.108.239.207/tarihtv/index.m3u8
 ViasatHistory,http://65.108.239.207/viasathistory/index.m3u8
 DMAX,https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
-TLC,https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/tlc.m3u8
+TLC,https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 CGTN DOCUMENTARY,https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
 GZT,https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 CİFTCİ TV,https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
