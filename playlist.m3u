@@ -143,6 +143,8 @@ https://kytv.k33n26.workers.dev/rainy5.m3u8
 https://kytv.k33n26.workers.dev/rainy6.m3u8
 #EXTINF:-1 group-title="dinlenme",Ocean Relaxation-1(k33n26)
 https://kytv.k33n26.workers.dev/ocean1.m3u8
+#EXTINF:-1 group-title="dinlenme",The Best 4K Aquarium(k33n26)
+https://kytv.k33n26.workers.dev/akvaryum4k.m3u8
 #EXTINF:-1 group-title="dinlenme",YAZ-TV
 https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist/2.m3u8
 #EXTINF:-1 group-title="dinlenme",SU SESI
