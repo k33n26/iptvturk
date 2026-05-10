@@ -577,6 +577,8 @@ https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8
 http://87.121.104.29:1071/bshaberyt/stream.m3u8
 #EXTINF:-1 group-title="spor",bein-sports-haber(k33n26)
 https://kytv.k33n26.workers.dev/bspor.m3u8
+#EXTINF:-1 group-title="spor",A Spor(k33n26)
+https://kytv.k33n26.workers.dev/aspor.m3u8
 #EXTINF:-1 group-title="spor",sports-tv-tr
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="spor",tjk-tv-tr
