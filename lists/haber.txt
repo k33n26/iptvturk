@@ -17,6 +17,7 @@ HALK TV,https://dsmartgo-live.ercdn.net/dsmartgo/halktv/halktv.isml/halktv.m3u8
 HABERTURK,https://dsmartgo-live.ercdn.net/dsmartgo/haberturk/haberturk.isml/haberturk.m3u8
 BENGUTURK TV,https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 TV100,https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+TV100(k33n26),https://kytv.k33n26.workers.dev/tv100.m3u8
 TVnet,https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 TYT TURK,https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
 AKIT TV,https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
