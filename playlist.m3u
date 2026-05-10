@@ -123,6 +123,8 @@ http://65.108.239.207/cartoonnetwork/index.m3u8
 https://cdn-eu.tivimivi.com/streams/151/master.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",CARTOON NETWORK(k33n26)
 https://kytv.k33n26.workers.dev/carton.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",KOYUN SHAUN(k33n26)
+https://kytv.k33n26.workers.dev/koyun.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",COCUKSMART
 https://testcable.denek1544.workers.dev/channel/w4dvY3VrIFNtYXJ0
 #EXTINF:-1 group-title="cocuk cizgi",KRAL SAKIR
