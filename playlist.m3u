@@ -423,6 +423,8 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="muzik",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+#EXTINF:-1 group-title="muzik",KRAL AKUSTİK(k33n26)
+https://kytv.k33n26.workers.dev/kralakustik.m3u8
 #EXTINF:-1 group-title="muzik",DREAM TURK
 http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 group-title="muzik",Enerji 93.1 HD
