@@ -12,7 +12,7 @@ CNBC-E(k33n26),https://kytv.k33n26.workers.dev/cnbce.m3u8
 TELE 1,https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 TELE 2,https://video.twimg.com/amplify_video/1988933245791096832/pl/-LYtCesCNPKsSJDS.m3u8?variant_version=1&tag=14
 TGRT HABER,https://canli.tgrthaber.com/tgrt.m3u8
-24 HABER,
+24 HABER(kk3n26),https://kytv.k33n26.workers.dev/24tv.m3u8
 BENGUTURK TV,https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 TV100,https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 TV100(k33n26),https://kytv.k33n26.workers.dev/tv100.m3u8
