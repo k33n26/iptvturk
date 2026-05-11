@@ -335,6 +335,8 @@ https://kytv.k33n26.workers.dev/halktv.m3u8
 https://kytv.k33n26.workers.dev/szctv.m3u8
 #EXTINF:-1 group-title="haber",KRT(k33n26)
 https://kytv.k33n26.workers.dev/krt.m3u8
+#EXTINF:-1 group-title="haber",CNBC-E(k33n26)
+https://kytv.k33n26.workers.dev/cnbce.m3u8
 #EXTINF:-1 group-title="haber",TELE 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1 group-title="haber",TELE 2
@@ -342,7 +344,7 @@ https://video.twimg.com/amplify_video/1988933245791096832/pl/-LYtCesCNPKsSJDS.m3
 #EXTINF:-1 group-title="haber",TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 group-title="haber",24 HABER
-https://dsmartgo-live.ercdn.net/dsmartgo/24/24.isml/24.m3u8
+
 #EXTINF:-1 group-title="haber",BENGUTURK TV
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 group-title="haber",TV100
