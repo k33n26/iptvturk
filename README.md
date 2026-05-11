@@ -14,10 +14,10 @@ https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
 - 📺 **belgesel**: 32 kanal
 - 📺 **yasam**: 24 kanal
 - 📺 **muzik**: 17 kanal
-- 📺 **cocuk cizgi**: 13 kanal
+- 📺 **cocuk cizgi**: 14 kanal
 - 📺 **avrupa**: 10 kanal
 - 📺 **kibris tv**: 7 kanal
 
-Güncelleme: `2026-05-11 15:11:30 (TR)`
-Toplam Kanal: **474**
+Güncelleme: `2026-05-11 15:38:11 (TR)`
+Toplam Kanal: **475**
 <!-- STATS-END -->
