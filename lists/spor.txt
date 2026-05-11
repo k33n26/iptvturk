@@ -7,6 +7,7 @@ sports-tv-tr,https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 tjk-tv-tr,https://tjktv-live.tjk.org/tjktv_1080p.m3u8
 fenerbahce-tv-tr,https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 HT SPOR,https://ciner-live.ercdn.net/htspor/htspor.m3u8
+HT SPOR(k33n26),https://kytv.k33n26.workers.dev/htspor.m3u8
 0 TV,https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 A SPOR,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 A SPOR,https://cdn-eu.tivimivi.com/streams/122/master.m3u8
