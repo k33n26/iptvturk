@@ -22,4 +22,4 @@ VAV TV ASR-I SERIF,https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-
 VAV TV ASR-I SAADET,https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-saadet-tv/playlist/0.m3u8
 VAV TV ILAHILER,https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilahiler-tv/playlist/0.m3u8
 CAN TV,http://canbroadcast.com:7000/canlican/tv.m3u8
-
+KISMETSE OLUR(k33n26),https://kytv.k33n26.workers.dev/kismet.m3u8
