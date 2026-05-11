@@ -11,6 +11,7 @@ POWER TURK SLOW,https://livetv.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8
 POWER TURK TAPTAZE,https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 TRT MUZIK 2K,https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
 KRAL POP,http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+KRAL AKUSTİK(k33n26),https://kytv.k33n26.workers.dev/kralakustik.m3u8
 DREAM TURK,http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 Enerji 93.1 HD,https://cdn-eu.tivimivi.com/streams/136/master.m3u8
 Enerji Slow,https://cdn-eu.tivimivi.com/streams/154/master.m3u8
