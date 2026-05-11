@@ -779,6 +779,8 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-saadet-tv/playlis
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilahiler-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="yasam",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 group-title="yasam",KISMETSE OLUR(k33n26)
+https://kytv.k33n26.workers.dev/kismet.m3u8
 #EXTINF:-1 group-title="yerel",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 #EXTINF:-1 group-title="yerel",CAY TV
