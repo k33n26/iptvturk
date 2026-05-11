@@ -343,12 +343,6 @@ https://video.twimg.com/amplify_video/1988933245791096832/pl/-LYtCesCNPKsSJDS.m3
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 group-title="haber",24 HABER
 https://dsmartgo-live.ercdn.net/dsmartgo/24/24.isml/24.m3u8
-#EXTINF:-1 group-title="haber",HABER GLOBAL
-https://dsmartgo-live.ercdn.net/dsmartgo/haberglobal/haberglobal.isml/haberglobal.m3u8
-#EXTINF:-1 group-title="haber",HALK TV
-https://dsmartgo-live.ercdn.net/dsmartgo/halktv/halktv.isml/halktv.m3u8
-#EXTINF:-1 group-title="haber",HABERTURK
-https://dsmartgo-live.ercdn.net/dsmartgo/haberturk/haberturk.isml/haberturk.m3u8
 #EXTINF:-1 group-title="haber",BENGUTURK TV
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 group-title="haber",TV100
@@ -385,6 +379,8 @@ https://kytv.k33n26.workers.dev/lider.m3u8
 http://65.108.239.207/ahaber/index.m3u8
 #EXTINF:-1 group-title="haber",A HABER(k33n26)
 https://kytv.k33n26.workers.dev/ahaber.m3u8
+#EXTINF:-1 group-title="haber",A PARA(k33n26)
+https://kytv.k33n26.workers.dev/apara.m3u8
 #EXTINF:-1 group-title="kibris tv",ADA TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="kibris tv",KK TV
