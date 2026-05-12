@@ -24,6 +24,7 @@ TLC,https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df47
 CGTN DOCUMENTARY,https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
 GZT,https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 CİFTCİ TV,https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+CİFTCİ TV(k33n26),https://kytv.k33n26.workers.dev/ciftcitv.m3u8
 TARIM-TV,https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 TGRT-BELGESEL,https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 TGRT-BELGESEL(2),https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Tgrt_Belgesel.m3u8?t=1771919148
