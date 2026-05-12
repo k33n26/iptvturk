@@ -71,6 +71,8 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 group-title="belgesel",CİFTCİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 group-title="belgesel",CİFTCİ TV(k33n26)
+https://kytv.k33n26.workers.dev/ciftcitv.m3u8
 #EXTINF:-1 group-title="belgesel",TARIM-TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 #EXTINF:-1 group-title="belgesel",TGRT-BELGESEL
