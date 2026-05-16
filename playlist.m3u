@@ -391,6 +391,8 @@ https://kytv.k33n26.workers.dev/ahaber.m3u8
 https://kytv.k33n26.workers.dev/apara.m3u8
 #EXTINF:-1 group-title="haber",EGEMAX TV(k33n26)
 https://kytv.k33n26.workers.dev/egemax.m3u8
+#EXTINF:-1 group-title="haber",TRT-HABER(k33n26)
+https://kytv.k33n26.workers.dev/trthaber.m3u8
 #EXTINF:-1 group-title="kibris tv",ADA TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="kibris tv",KK TV
