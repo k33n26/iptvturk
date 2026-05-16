@@ -36,3 +36,4 @@ A HABER(k33n26),https://kytv.k33n26.workers.dev/ahaber.m3u8
 A PARA(k33n26),https://kytv.k33n26.workers.dev/apara.m3u8
 EGEMAX TV(k33n26),https://kytv.k33n26.workers.dev/egemax.m3u8
 TRT-HABER(k33n26),https://kytv.k33n26.workers.dev/trthaber.m3u8
+TGRT HABER(k33n26),https://kytv.k33n26.workers.dev/tgrthaber.m3u8
