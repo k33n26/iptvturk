@@ -103,6 +103,8 @@ http://65.108.239.207/cartoonnetwork/index.m3u8
 https://cdn-eu.tivimivi.com/streams/151/master.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",CARTOON NETWORK(k33n26)
 https://kytv.k33n26.workers.dev/carton.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",CARTOON NETWORK(k33n26)-2
+https://kytv.k33n26.workers.dev/carton2.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",Rafadan Tayfa(k33n26)
 https://kytv.k33n26.workers.dev/rafadan.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",KOYUN SHAUN(k33n26)
@@ -113,6 +115,8 @@ https://testcable.denek1544.workers.dev/channel/w4dvY3VrIFNtYXJ0
 http://87.121.104.29:1855/cartoonnetworkyt/stream3.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",AZOOMEE
 https://cdn-eu.tivimivi.com/streams/102/master.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",KRAL ŞAKİR(k33n26)
+https://kytv.k33n26.workers.dev/kralsakir.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINE
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINETV(k33n26)
