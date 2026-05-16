@@ -123,6 +123,20 @@ http://iptv.prosto.tv:7000/ch318/video.m3u8
 https://kytv.k33n26.workers.dev/sominetv.m3u8
 #EXTINF:-1 group-title="dinlenme",Relax(k33n26)
 https://kytv.k33n26.workers.dev/relax.m3u8
+#EXTINF:-1 group-title="dinlenme",Relax(k33n26)-2
+https://kytv.k33n26.workers.dev/relax2.m3u8
+#EXTINF:-1 group-title="dinlenme",Relax(k33n26)-3
+https://kytv.k33n26.workers.dev/relax3.m3u8
+#EXTINF:-1 group-title="dinlenme",Relax(k33n26)-4
+https://kytv.k33n26.workers.dev/relax4.m3u8
+#EXTINF:-1 group-title="dinlenme",Relax(k33n26)-5
+https://kytv.k33n26.workers.dev/relax5.m3u8
+#EXTINF:-1 group-title="dinlenme",Relax(k33n26)-6
+https://kytv.k33n26.workers.dev/relax6.m3u8
+#EXTINF:-1 group-title="dinlenme",Relax(k33n26)-7
+https://kytv.k33n26.workers.dev/relax7.m3u8
+#EXTINF:-1 group-title="dinlenme",Relax(k33n26)-8
+https://kytv.k33n26.workers.dev/relax8.m3u8
 #EXTINF:-1 group-title="dinlenme",Dream Life(k33n26)
 https://kytv.k33n26.workers.dev/dreamlife.m3u8
 #EXTINF:-1 group-title="dinlenme",WaterFall(k33n26)
