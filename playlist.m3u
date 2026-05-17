@@ -1025,3 +1025,5 @@ https://kytv.k33n26.workers.dev/dwnews.m3u8
 https://kytv.k33n26.workers.dev/aljazeeraenglish.m3u8
 #EXTINF:-1 group-title="youtube",SKY NEWS
 https://kytv.k33n26.workers.dev/skynews.m3u8
+#EXTINF:-1 group-title="youtube",FRANCE 24 English
+https://kytv.k33n26.workers.dev/france24.m3u8
