@@ -1017,3 +1017,5 @@ https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
 https://kytv.k33n26.workers.dev/nasa1.m3u8
 #EXTINF:-1 group-title="youtube",EARTH TV
 https://kytv.k33n26.workers.dev/earthtv.m3u8
+#EXTINF:-1 group-title="youtube",EURONEWS
+https://kytv.k33n26.workers.dev/euronews.m3u8
