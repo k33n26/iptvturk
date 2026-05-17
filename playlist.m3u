@@ -1013,3 +1013,7 @@ https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_ort/ort/chunks.m3u8
 #EXTINF:-1 group-title="yerel",WORLD TURK TV
 https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
+#EXTINF:-1 group-title="youtube",NASA TV
+https://kytv.k33n26.workers.dev/nasa1.m3u8
+#EXTINF:-1 group-title="youtube",EARTH TV
+https://kytv.k33n26.workers.dev/earthtv.m3u8
