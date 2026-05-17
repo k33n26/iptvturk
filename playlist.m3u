@@ -1029,3 +1029,5 @@ https://kytv.k33n26.workers.dev/skynews.m3u8
 https://kytv.k33n26.workers.dev/france24.m3u8
 #EXTINF:-1 group-title="youtube",ABC NEWS Australia
 https://kytv.k33n26.workers.dev/abcnewsau.m3u8
+#EXTINF:-1 group-title="youtube",ABC NEWS USA
+https://kytv.k33n26.workers.dev/abcnewsusa.m3u8
