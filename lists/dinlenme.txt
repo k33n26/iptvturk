@@ -57,3 +57,4 @@ BITKILER STREAM,http://iptv.prosto.tv:7000/ch346/video.m3u8
 TREN STREAM,http://iptv.prosto.tv:7000/ch348/video.m3u8
 FISKIYE STREAM,http://iptv.prosto.tv:7000/ch350/video.m3u8
 AKVARYUM TV(k33n26),https://kytv.k33n26.workers.dev/fishtank.m3u8
+Tropical Beach TV(k33n26),https://kytv.k33n26.workers.dev/oceans.m3u8
