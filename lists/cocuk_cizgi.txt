@@ -19,3 +19,4 @@ NEŞELİ DÜNYAM(k33n26),https://kytv.k33n26.workers.dev/neselidunyam.m3u8
 MINIKA GO (k33n26),https://kytv.k33n26.workers.dev/minikago.m3u8
 TOM VE JERRY(k33n26),https://kytv.k33n26.workers.dev/tomjerry.m3u8
 KONUŞAN TOM(k33n26),https://kytv.k33n26.workers.dev/konusantom.m3u8
+NİLOYA(k33n26),https://kytv.k33n26.workers.dev/niloya.m3u8
