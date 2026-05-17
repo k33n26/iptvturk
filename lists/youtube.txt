@@ -4,3 +4,4 @@ EURONEWS,https://kytv.k33n26.workers.dev/euronews.m3u8
 DW NEWS,https://kytv.k33n26.workers.dev/dwnews.m3u8
 Al Jazeera English,https://kytv.k33n26.workers.dev/aljazeeraenglish.m3u8
 SKY NEWS,https://kytv.k33n26.workers.dev/skynews.m3u8
+FRANCE 24 English,https://kytv.k33n26.workers.dev/france24.m3u8
