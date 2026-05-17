@@ -16,3 +16,4 @@ AZOOMEE,https://cdn-eu.tivimivi.com/streams/102/master.m3u8
 KRAL ŞAKİR(k33n26),https://kytv.k33n26.workers.dev/kralsakir.m3u8
 DİYANET ÇOCUK TV(k33n26),https://kytv.k33n26.workers.dev/diyanetcocuk.m3u8
 NEŞELİ DÜNYAM(k33n26),https://kytv.k33n26.workers.dev/neselidunyam.m3u8
+MINIKA GO (k33n26),https://kytv.k33n26.workers.dev/minikago.m3u8
