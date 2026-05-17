@@ -7,3 +7,12 @@ SKY NEWS,https://kytv.k33n26.workers.dev/skynews.m3u8
 FRANCE 24 English,https://kytv.k33n26.workers.dev/france24.m3u8
 ABC NEWS Australia,https://kytv.k33n26.workers.dev/abcnewsau.m3u8
 ABC NEWS USA,https://kytv.k33n26.workers.dev/abcnewsusa.m3u8
+Bloomberg Business News,https://kytv.k33n26.workers.dev/bloombergint.m3u8
+Alaraby TV News,https://kytv.k33n26.workers.dev/alaraby.m3u8
+SkylineWebcams-Venedik,https://kytv.k33n26.workers.dev/venedik.m3u8
+SkylineWebcams-USA-UK-CANADA,https://kytv.k33n26.workers.dev/usaukcanada.m3u8
+SkylineWebcams-Yunanistan,https://kytv.k33n26.workers.dev/yunanistan.m3u8
+SkylineWebcams-İspanya,https://kytv.k33n26.workers.dev/ispanya.m3u8
+SkylineWebcams-İtalya,https://kytv.k33n26.workers.dev/italya.m3u8
+SkylineWebcams-World,https://kytv.k33n26.workers.dev/worldcam.m3u8
+
