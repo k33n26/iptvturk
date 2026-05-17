@@ -1031,3 +1031,19 @@ https://kytv.k33n26.workers.dev/france24.m3u8
 https://kytv.k33n26.workers.dev/abcnewsau.m3u8
 #EXTINF:-1 group-title="youtube",ABC NEWS USA
 https://kytv.k33n26.workers.dev/abcnewsusa.m3u8
+#EXTINF:-1 group-title="youtube",Bloomberg Business News
+https://kytv.k33n26.workers.dev/bloombergint.m3u8
+#EXTINF:-1 group-title="youtube",Alaraby TV News
+https://kytv.k33n26.workers.dev/alaraby.m3u8
+#EXTINF:-1 group-title="youtube",SkylineWebcams-Venedik
+https://kytv.k33n26.workers.dev/venedik.m3u8
+#EXTINF:-1 group-title="youtube",SkylineWebcams-USA-UK-CANADA
+https://kytv.k33n26.workers.dev/usaukcanada.m3u8
+#EXTINF:-1 group-title="youtube",SkylineWebcams-Yunanistan
+https://kytv.k33n26.workers.dev/yunanistan.m3u8
+#EXTINF:-1 group-title="youtube",SkylineWebcams-İspanya
+https://kytv.k33n26.workers.dev/ispanya.m3u8
+#EXTINF:-1 group-title="youtube",SkylineWebcams-İtalya
+https://kytv.k33n26.workers.dev/italya.m3u8
+#EXTINF:-1 group-title="youtube",SkylineWebcams-World
+https://kytv.k33n26.workers.dev/worldcam.m3u8
