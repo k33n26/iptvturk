@@ -1047,3 +1047,23 @@ https://kytv.k33n26.workers.dev/ispanya.m3u8
 https://kytv.k33n26.workers.dev/italya.m3u8
 #EXTINF:-1 group-title="youtube",SkylineWebcams-World
 https://kytv.k33n26.workers.dev/worldcam.m3u8
+#EXTINF:-1 group-title="youtube",EarthNow-Brazil
+https://kytv.k33n26.workers.dev/brazilnow.m3u8
+#EXTINF:-1 group-title="youtube",EarthNow-Denmark
+https://kytv.k33n26.workers.dev/denmarknow.m3u8
+#EXTINF:-1 group-title="youtube",EarthNow-Usa
+https://kytv.k33n26.workers.dev/usanow.m3u8
+#EXTINF:-1 group-title="youtube",EarthNow-New Zealand
+https://kytv.k33n26.workers.dev/newzealandnow.m3u8
+#EXTINF:-1 group-title="youtube",EarthNow-Germany
+https://kytv.k33n26.workers.dev/germanynow.m3u8
+#EXTINF:-1 group-title="youtube",EarthNow-Finland
+https://kytv.k33n26.workers.dev/finlandnow.m3u8
+#EXTINF:-1 group-title="youtube",EarthNow-Sweden
+https://kytv.k33n26.workers.dev/swedennow.m3u8
+#EXTINF:-1 group-title="youtube",EarthNow-Iceland
+https://kytv.k33n26.workers.dev/icelandnow.m3u8
+#EXTINF:-1 group-title="youtube",EarthNow-Japan
+https://kytv.k33n26.workers.dev/japannow.m3u8
+#EXTINF:-1 group-title="youtube",EarthNow-Norway
+https://kytv.k33n26.workers.dev/norwaynow.m3u8
