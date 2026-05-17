@@ -127,6 +127,8 @@ https://kytv.k33n26.workers.dev/minikago.m3u8
 https://kytv.k33n26.workers.dev/tomjerry.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",KONUŞAN TOM(k33n26)
 https://kytv.k33n26.workers.dev/konusantom.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",NİLOYA(k33n26)
+https://kytv.k33n26.workers.dev/niloya.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINE
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINETV(k33n26)
