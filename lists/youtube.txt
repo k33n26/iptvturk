@@ -15,4 +15,22 @@ SkylineWebcams-Yunanistan,https://kytv.k33n26.workers.dev/yunanistan.m3u8
 SkylineWebcams-İspanya,https://kytv.k33n26.workers.dev/ispanya.m3u8
 SkylineWebcams-İtalya,https://kytv.k33n26.workers.dev/italya.m3u8
 SkylineWebcams-World,https://kytv.k33n26.workers.dev/worldcam.m3u8
+EarthNow-Brazil,https://kytv.k33n26.workers.dev/brazilnow.m3u8
+EarthNow-Denmark,https://kytv.k33n26.workers.dev/denmarknow.m3u8
+EarthNow-Usa,https://kytv.k33n26.workers.dev/usanow.m3u8
+EarthNow-New Zealand,https://kytv.k33n26.workers.dev/newzealandnow.m3u8
+EarthNow-Germany,https://kytv.k33n26.workers.dev/germanynow.m3u8
+EarthNow-Finland,https://kytv.k33n26.workers.dev/finlandnow.m3u8
+EarthNow-Sweden,https://kytv.k33n26.workers.dev/swedennow.m3u8
+EarthNow-Iceland,https://kytv.k33n26.workers.dev/icelandnow.m3u8
+EarthNow-Japan,https://kytv.k33n26.workers.dev/japannow.m3u8
+EarthNow-Norway,https://kytv.k33n26.workers.dev/norwaynow.m3u8
+
+
+
+
+
+
+
+
 
