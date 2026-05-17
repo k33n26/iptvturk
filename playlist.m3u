@@ -131,6 +131,14 @@ https://kytv.k33n26.workers.dev/konusantom.m3u8
 https://kytv.k33n26.workers.dev/niloya.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",GUMBALL(k33n26)
 https://kytv.k33n26.workers.dev/gumball.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",YARDIMCI ARABALAR-1(k33n26)
+https://kytv.k33n26.workers.dev/yardimci1.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",YARDIMCI ARABALAR-2(k33n26)
+https://kytv.k33n26.workers.dev/yardimci2.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",YARDIMCI ARABALAR-3(k33n26)
+https://kytv.k33n26.workers.dev/yardimci3.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",YARDIMCI ARABALAR-4(k33n26)
+https://kytv.k33n26.workers.dev/yardimci4.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINE
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINETV(k33n26)
