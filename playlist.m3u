@@ -119,6 +119,8 @@ https://cdn-eu.tivimivi.com/streams/102/master.m3u8
 https://kytv.k33n26.workers.dev/kralsakir.m3u8
 #EXTINF:-1 group-title="cocuk cizgi",DİYANET ÇOCUK TV(k33n26)
 https://kytv.k33n26.workers.dev/diyanetcocuk.m3u8
+#EXTINF:-1 group-title="cocuk cizgi",NEŞELİ DÜNYAM(k33n26)
+https://kytv.k33n26.workers.dev/neselidunyam.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINE
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 group-title="dinlenme",SOMINETV(k33n26)
