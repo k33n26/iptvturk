@@ -1,8 +1,8 @@
 {
-  "total": 500,
+  "total": 501,
   "groups": {
     "sinema dizi": 78,
-    "cocuk cizgi": 20,
+    "cocuk cizgi": 21,
     "ulusal": 37,
     "haber": 40,
     "filmler": 51,
@@ -15,5 +15,5 @@
     "yasam": 25,
     "spor": 33
   },
-  "updated": "2026-05-17 08:29:20 (TR)"
+  "updated": "2026-05-17 08:35:39 (TR)"
 }
