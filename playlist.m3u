@@ -659,6 +659,8 @@ http://65.108.239.207/bsstars/index.m3u8
 http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 #EXTINF:-1 group-title="sinema dizi",SARTV MAX
 https://boncuktvv.siringa-yetmedi.workers.dev/best4k
+#EXTINF:-1 group-title="sinema dizi",YALAN DÜNYA(k33n26)
+https://kytv.k33n26.workers.dev/yalandunya.m3u8
 #EXTINF:-1 group-title="spor",trt-spor-tr
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="spor",trt-spor-yildiz-tr
