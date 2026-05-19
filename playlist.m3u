@@ -515,6 +515,8 @@ https://kytv.k33n26.workers.dev/filmatolyesi.m3u8
 https://kytv.k33n26.workers.dev/guldur.m3u8
 #EXTINF:-1 group-title="sinema dizi",Yesilcam TV(k33n26)
 https://kytv.k33n26.workers.dev/yesilcam.m3u8
+#EXTINF:-1 group-title="sinema dizi",Yesilcam TV-2(k33n26)
+https://kytv.k33n26.workers.dev/yesilcam2.m3u8
 #EXTINF:-1 group-title="sinema dizi",Çiçek Taksi(k33n26)
 https://kytv.k33n26.workers.dev/cicek.m3u8
 #EXTINF:-1 group-title="sinema dizi",Gulsah Film(k33n26)
