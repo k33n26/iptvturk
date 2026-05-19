@@ -5,6 +5,7 @@ Saban TV(k33n26),https://kytv.k33n26.workers.dev/sabantv.m3u8
 Film Atölyesi(k33n26),https://kytv.k33n26.workers.dev/filmatolyesi.m3u8
 Güldür Güldür(k33n26),https://kytv.k33n26.workers.dev/guldur.m3u8
 Yesilcam TV(k33n26),https://kytv.k33n26.workers.dev/yesilcam.m3u8
+Yesilcam TV-2(k33n26),https://kytv.k33n26.workers.dev/yesilcam2.m3u8
 Çiçek Taksi(k33n26),https://kytv.k33n26.workers.dev/cicek.m3u8
 Gulsah Film(k33n26),https://kytv.k33n26.workers.dev/gulsah.m3u8
 Avsar Film(k33n26),https://kytv.k33n26.workers.dev/avsar.m3u8
