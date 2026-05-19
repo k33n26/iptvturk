@@ -2,6 +2,7 @@ BIZIMKILER,http://87.121.104.29:1071/trtnostalji/stream2.m3u8
 BIZIMKILER2,https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
 BIZIMKILER(k33n26),https://kytv.k33n26.workers.dev/trtnostalji.m3u8
 Saban TV(k33n26),https://kytv.k33n26.workers.dev/sabantv.m3u8
+Film Atölyesi(k33n26),https://kytv.k33n26.workers.dev/filmatolyesi.m3u8
 Güldür Güldür(k33n26),https://kytv.k33n26.workers.dev/guldur.m3u8
 Yesilcam TV(k33n26),https://kytv.k33n26.workers.dev/yesilcam.m3u8
 Çiçek Taksi(k33n26),https://kytv.k33n26.workers.dev/cicek.m3u8
