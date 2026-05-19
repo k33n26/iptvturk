@@ -23,6 +23,7 @@ Tvnet(k33n26),https://kytv.k33n26.workers.dev/tvnet.m3u8
 TYT TURK,https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
 AKIT TV,https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 ULUSAL KANAL,https://trn03.tulix.tv/gt-ulusaltv/playlist.m3u8
+ULUSAL KANAL(k33n26),https://kytv.k33n26.workers.dev/ulusalkanal.m3u8
 EKOL TV,https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 FLASH HABER,https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 FLASH HABER(k33n26),https://kytv.k33n26.workers.dev/flashhaber.m3u8
