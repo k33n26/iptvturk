@@ -445,6 +445,8 @@ https://kytv.k33n26.workers.dev/trthaber.m3u8
 https://kytv.k33n26.workers.dev/tgrthaber.m3u8
 #EXTINF:-1 group-title="haber",BLOOMBERG HT(k33n26)
 https://kytv.k33n26.workers.dev/bloomberght.m3u8
+#EXTINF:-1 group-title="haber",EKOTURK TV(k33n26)
+https://kytv.k33n26.workers.dev/ekoturk.m3u8
 #EXTINF:-1 group-title="kibris tv",ADA TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="kibris tv",KK TV
