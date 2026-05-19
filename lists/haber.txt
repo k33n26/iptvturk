@@ -25,6 +25,7 @@ AKIT TV,https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 ULUSAL KANAL,https://trn03.tulix.tv/gt-ulusaltv/playlist.m3u8
 EKOL TV,https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 FLASH HABER,https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+FLASH HABER(k33n26),https://kytv.k33n26.workers.dev/flashhaber.m3u8
 TELE NEWS,https://cdn-telenews.yayin.com.tr/telenews/index.m3u8
 ILKE TV,https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 ULKE TV,https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
