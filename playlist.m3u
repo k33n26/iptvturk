@@ -413,6 +413,8 @@ https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1 group-title="haber",ULUSAL KANAL
 https://trn03.tulix.tv/gt-ulusaltv/playlist.m3u8
+#EXTINF:-1 group-title="haber",ULUSAL KANAL(k33n26)
+https://kytv.k33n26.workers.dev/ulusalkanal.m3u8
 #EXTINF:-1 group-title="haber",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 group-title="haber",FLASH HABER
