@@ -1085,3 +1085,5 @@ https://kytv.k33n26.workers.dev/japannow.m3u8
 https://kytv.k33n26.workers.dev/norwaynow.m3u8
 #EXTINF:-1 group-title="youtube",CGTN Europe News
 https://kytv.k33n26.workers.dev/cgtneurope.m3u8
+#EXTINF:-1 group-title="youtube",CCTV4
+https://kytv.k33n26.workers.dev/cctv4.m3u8
