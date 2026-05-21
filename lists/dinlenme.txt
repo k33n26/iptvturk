@@ -64,3 +64,5 @@ Terrible Huricane(k33n26),https://kytv.k33n26.workers.dev/naturesfx.m3u8
 Storm Power-1(k33n26),https://kytv.k33n26.workers.dev/storm1.m3u8
 Storm Power-2(k33n26),https://kytv.k33n26.workers.dev/storm2.m3u8
 Storm Power-3(k33n26),https://kytv.k33n26.workers.dev/storm3.m3u8
+Storm Power-4(k33n26),https://kytv.k33n26.workers.dev/storm4.m3u8
+Storm Power-5(k33n26),https://kytv.k33n26.workers.dev/storm5.m3u8
