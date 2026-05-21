@@ -1089,3 +1089,5 @@ https://kytv.k33n26.workers.dev/cgtneurope.m3u8
 https://kytv.k33n26.workers.dev/cctv4.m3u8
 #EXTINF:-1 group-title="youtube",GlobalNewsTV
 https://kytv.k33n26.workers.dev/globalnews.m3u8
+#EXTINF:-1 group-title="youtube",TaiwanNewsTV
+https://kytv.k33n26.workers.dev/taiwannews.m3u8
