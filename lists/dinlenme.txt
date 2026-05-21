@@ -66,3 +66,12 @@ Storm Power-2(k33n26),https://kytv.k33n26.workers.dev/storm2.m3u8
 Storm Power-3(k33n26),https://kytv.k33n26.workers.dev/storm3.m3u8
 Storm Power-4(k33n26),https://kytv.k33n26.workers.dev/storm4.m3u8
 Storm Power-5(k33n26),https://kytv.k33n26.workers.dev/storm5.m3u8
+Rain On Tree-1(k33n26),https://kytv.k33n26.workers.dev/rainontree1.m3u8
+Rain On Tree-2(k33n26),https://kytv.k33n26.workers.dev/rainontree2.m3u8
+Rain On Tree-3(k33n26),https://kytv.k33n26.workers.dev/rainontree3.m3u8
+Rain On Tree-4(k33n26),https://kytv.k33n26.workers.dev/rainontree4.m3u8
+Rain On Tree-5(k33n26),https://kytv.k33n26.workers.dev/rainontree5.m3u8
+Rain On Tree-6(k33n26),https://kytv.k33n26.workers.dev/rainontree6.m3u8
+Rain On Tree-7(k33n26),https://kytv.k33n26.workers.dev/rainontree7.m3u8
+Rain On Tree-8(k33n26),https://kytv.k33n26.workers.dev/rainontree8.m3u8
+Rain On Tree-9(k33n26),https://kytv.k33n26.workers.dev/rainontree9.m3u8
