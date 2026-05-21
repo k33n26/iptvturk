@@ -265,6 +265,12 @@ https://kytv.k33n26.workers.dev/fishtank2.m3u8
 https://kytv.k33n26.workers.dev/swedishrail.m3u8
 #EXTINF:-1 group-title="dinlenme",Terrible Huricane(k33n26)
 https://kytv.k33n26.workers.dev/naturesfx.m3u8
+#EXTINF:-1 group-title="dinlenme",Storm Power-1(k33n26)
+https://kytv.k33n26.workers.dev/storm1.m3u8
+#EXTINF:-1 group-title="dinlenme",Storm Power-2(k33n26)
+https://kytv.k33n26.workers.dev/storm2.m3u8
+#EXTINF:-1 group-title="dinlenme",Storm Power-3(k33n26)
+https://kytv.k33n26.workers.dev/storm3.m3u8
 #EXTINF:-1 group-title="filmler",Recep.Ivedik.1
 https://vidmody.com/mm/tt1193516/main/index.m3u8
 #EXTINF:-1 group-title="filmler",Recep.Ivedik.2
