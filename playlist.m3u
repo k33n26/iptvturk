@@ -1101,3 +1101,5 @@ https://kytv.k33n26.workers.dev/taiwancts.m3u8
 https://kytv.k33n26.workers.dev/tvbs.m3u8
 #EXTINF:-1 group-title="youtube",Phoenix TV
 https://kytv.k33n26.workers.dev/phoenixtv.m3u8
+#EXTINF:-1 group-title="youtube",Greek Hits Non Stop Mix
+https://kytv.k33n26.workers.dev/greekhits.m3u8
