@@ -29,6 +29,7 @@ CGTN Europe News,https://kytv.k33n26.workers.dev/cgtneurope.m3u8
 CCTV4,https://kytv.k33n26.workers.dev/cctv4.m3u8
 GlobalNewsTV,https://kytv.k33n26.workers.dev/globalnews.m3u8
 TaiwanNewsTV,https://kytv.k33n26.workers.dev/taiwannews.m3u8
+Taiwan EBC,https://kytv.k33n26.workers.dev/taiwanebc.m3u8
 
 
 
