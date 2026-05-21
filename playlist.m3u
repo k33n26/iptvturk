@@ -1097,3 +1097,5 @@ https://kytv.k33n26.workers.dev/taiwanebc.m3u8
 https://kytv.k33n26.workers.dev/taiwanctv.m3u8
 #EXTINF:-1 group-title="youtube",Taiwan CTS
 https://kytv.k33n26.workers.dev/taiwancts.m3u8
+#EXTINF:-1 group-title="youtube",TVBS 56
+https://kytv.k33n26.workers.dev/tvbs.m3u8
