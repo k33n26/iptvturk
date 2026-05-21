@@ -75,3 +75,4 @@ Rain On Tree-6(k33n26),https://kytv.k33n26.workers.dev/rainontree6.m3u8
 Rain On Tree-7(k33n26),https://kytv.k33n26.workers.dev/rainontree7.m3u8
 Rain On Tree-8(k33n26),https://kytv.k33n26.workers.dev/rainontree8.m3u8
 Rain On Tree-9(k33n26),https://kytv.k33n26.workers.dev/rainontree9.m3u8
+Rain Village-1(k33n26),https://kytv.k33n26.workers.dev/rainvillage1.m3u8
