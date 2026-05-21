@@ -25,6 +25,7 @@ EarthNow-Sweden,https://kytv.k33n26.workers.dev/swedennow.m3u8
 EarthNow-Iceland,https://kytv.k33n26.workers.dev/icelandnow.m3u8
 EarthNow-Japan,https://kytv.k33n26.workers.dev/japannow.m3u8
 EarthNow-Norway,https://kytv.k33n26.workers.dev/norwaynow.m3u8
+CGTN Europe News,https://kytv.k33n26.workers.dev/cgtneurope.m3u8
 
 
 
