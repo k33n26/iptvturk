@@ -59,3 +59,4 @@ FISKIYE STREAM,http://iptv.prosto.tv:7000/ch350/video.m3u8
 AKVARYUM TV(k33n26),https://kytv.k33n26.workers.dev/fishtank.m3u8
 Tropical Beach TV(k33n26),https://kytv.k33n26.workers.dev/oceans.m3u8
 AKVARYUM TV-2(k33n26),https://kytv.k33n26.workers.dev/fishtank2.m3u8
+Swedish Railcam(k33n26),https://kytv.k33n26.workers.dev/swedishrail.m3u8
