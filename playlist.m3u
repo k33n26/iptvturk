@@ -1093,3 +1093,5 @@ https://kytv.k33n26.workers.dev/globalnews.m3u8
 https://kytv.k33n26.workers.dev/taiwannews.m3u8
 #EXTINF:-1 group-title="youtube",Taiwan EBC
 https://kytv.k33n26.workers.dev/taiwanebc.m3u8
+#EXTINF:-1 group-title="youtube",Taiwan CTV
+https://kytv.k33n26.workers.dev/taiwanctv.m3u8
