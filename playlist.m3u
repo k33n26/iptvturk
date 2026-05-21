@@ -261,6 +261,8 @@ https://kytv.k33n26.workers.dev/fishtank.m3u8
 https://kytv.k33n26.workers.dev/oceans.m3u8
 #EXTINF:-1 group-title="dinlenme",AKVARYUM TV-2(k33n26)
 https://kytv.k33n26.workers.dev/fishtank2.m3u8
+#EXTINF:-1 group-title="dinlenme",Swedish Railcam(k33n26)
+https://kytv.k33n26.workers.dev/swedishrail.m3u8
 #EXTINF:-1 group-title="filmler",Recep.Ivedik.1
 https://vidmody.com/mm/tt1193516/main/index.m3u8
 #EXTINF:-1 group-title="filmler",Recep.Ivedik.2
