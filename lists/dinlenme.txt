@@ -61,3 +61,6 @@ Tropical Beach TV(k33n26),https://kytv.k33n26.workers.dev/oceans.m3u8
 AKVARYUM TV-2(k33n26),https://kytv.k33n26.workers.dev/fishtank2.m3u8
 Swedish Railcam(k33n26),https://kytv.k33n26.workers.dev/swedishrail.m3u8
 Terrible Huricane(k33n26),https://kytv.k33n26.workers.dev/naturesfx.m3u8
+Storm Power-1(k33n26),https://kytv.k33n26.workers.dev/storm1.m3u8
+Storm Power-2(k33n26),https://kytv.k33n26.workers.dev/storm2.m3u8
+Storm Power-3(k33n26),https://kytv.k33n26.workers.dev/storm3.m3u8
