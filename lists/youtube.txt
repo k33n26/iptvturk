@@ -34,6 +34,7 @@ Taiwan CTV,https://kytv.k33n26.workers.dev/taiwanctv.m3u8
 Taiwan CTS,https://kytv.k33n26.workers.dev/taiwancts.m3u8
 TVBS 56,https://kytv.k33n26.workers.dev/tvbs.m3u8
 Phoenix TV,https://kytv.k33n26.workers.dev/phoenixtv.m3u8
+Greek Hits Non Stop Mix,https://kytv.k33n26.workers.dev/greekhits.m3u8
 
 
 
