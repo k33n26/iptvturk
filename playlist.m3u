@@ -1173,3 +1173,5 @@ https://kytv.k33n26.workers.dev/ekhontv.m3u8
 https://kytv.k33n26.workers.dev/belsat.m3u8
 #EXTINF:-1 group-title="youtube",SBT AO
 https://kytv.k33n26.workers.dev/sbtao.m3u8
+#EXTINF:-1 group-title="youtube",TV Novo Tempo
+https://kytv.k33n26.workers.dev/tvnovo.m3u8
