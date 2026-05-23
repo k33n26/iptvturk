@@ -1145,3 +1145,5 @@ https://kytv.k33n26.workers.dev/danmarkc.m3u8
 https://kytv.k33n26.workers.dev/fairon.m3u8
 #EXTINF:-1 group-title="youtube",GemeindeTV
 https://kytv.k33n26.workers.dev/gemeindetv.m3u8
+#EXTINF:-1 group-title="youtube",KroneTV
+https://kytv.k33n26.workers.dev/kronetv.m3u8
