@@ -1181,3 +1181,5 @@ https://kytv.k33n26.workers.dev/24horas.m3u8
 https://kytv.k33n26.workers.dev/chvnoticias.m3u8
 #EXTINF:-1 group-title="youtube",T13 TV
 https://kytv.k33n26.workers.dev/t13.m3u8
+#EXTINF:-1 group-title="youtube",TV SENADO CHILE
+https://kytv.k33n26.workers.dev/tvsenado.m3u8
