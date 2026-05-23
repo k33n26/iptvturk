@@ -1171,3 +1171,5 @@ https://kytv.k33n26.workers.dev/todonoticias.m3u8
 https://kytv.k33n26.workers.dev/ekhontv.m3u8
 #EXTINF:-1 group-title="youtube",BELSAT TV
 https://kytv.k33n26.workers.dev/belsat.m3u8
+#EXTINF:-1 group-title="youtube",SBT AO
+https://kytv.k33n26.workers.dev/sbtao.m3u8
