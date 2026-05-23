@@ -55,6 +55,7 @@ BELSAT TV,https://kytv.k33n26.workers.dev/belsat.m3u8
 SBT AO,https://kytv.k33n26.workers.dev/sbtao.m3u8
 TV Novo Tempo,https://kytv.k33n26.workers.dev/tvnovo.m3u8
 24 Horas - TVN Chile,https://kytv.k33n26.workers.dev/24horas.m3u8
+CHV Noticias,https://kytv.k33n26.workers.dev/chvnoticias.m3u8
 
 
 
