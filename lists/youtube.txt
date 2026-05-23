@@ -37,6 +37,8 @@ Phoenix TV,https://kytv.k33n26.workers.dev/phoenixtv.m3u8
 Greek Hits Non Stop Mix,https://kytv.k33n26.workers.dev/greekhits.m3u8
 Euronews Greek,https://kytv.k33n26.workers.dev/euronewsgreek.m3u8
 DanmarkC TV,https://kytv.k33n26.workers.dev/danmarkc.m3u8
+FairON TV,https://kytv.k33n26.workers.dev/fairon.m3u8
+
 
 
 
