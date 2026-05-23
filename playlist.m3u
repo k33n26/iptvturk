@@ -1157,3 +1157,5 @@ https://kytv.k33n26.workers.dev/loriatv.m3u8
 https://kytv.k33n26.workers.dev/a24.m3u8
 #EXTINF:-1 group-title="youtube",AMÉRICA TV
 https://kytv.k33n26.workers.dev/americatv.m3u8
+#EXTINF:-1 group-title="youtube",CANAL 13 SAN JUAN
+https://kytv.k33n26.workers.dev/canal13.m3u8
