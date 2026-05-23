@@ -1063,6 +1063,8 @@ https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_ort/ort/chunks.m3u8
 #EXTINF:-1 group-title="yerel",WORLD TURK TV
 https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
+#EXTINF:-1 group-title="youtube",Nat Geo Kids
+https://kytv.k33n26.workers.dev/natgeokids.m3u8
 #EXTINF:-1 group-title="youtube",NASA TV
 https://kytv.k33n26.workers.dev/nasa1.m3u8
 #EXTINF:-1 group-title="youtube",EARTH TV
@@ -1167,3 +1169,5 @@ https://kytv.k33n26.workers.dev/tvpublica.m3u8
 https://kytv.k33n26.workers.dev/todonoticias.m3u8
 #EXTINF:-1 group-title="youtube",EKHON TV
 https://kytv.k33n26.workers.dev/ekhontv.m3u8
+#EXTINF:-1 group-title="youtube",BELSAT TV
+https://kytv.k33n26.workers.dev/belsat.m3u8
