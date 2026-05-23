@@ -53,6 +53,7 @@ Todo Noticias,https://kytv.k33n26.workers.dev/todonoticias.m3u8
 EKHON TV,https://kytv.k33n26.workers.dev/ekhontv.m3u8
 BELSAT TV,https://kytv.k33n26.workers.dev/belsat.m3u8
 SBT AO,https://kytv.k33n26.workers.dev/sbtao.m3u8
+TV Novo Tempo,https://kytv.k33n26.workers.dev/tvnovo.m3u8
 
 
 
