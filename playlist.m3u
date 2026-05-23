@@ -1151,3 +1151,5 @@ https://kytv.k33n26.workers.dev/kronetv.m3u8
 https://kytv.k33n26.workers.dev/salzburgagtv.m3u8
 #EXTINF:-1 group-title="youtube",Wetter-Panorama
 https://kytv.k33n26.workers.dev/wetterpanaroma.m3u8
+#EXTINF:-1 group-title="youtube",Lòria TV
+https://kytv.k33n26.workers.dev/loriatv.m3u8
