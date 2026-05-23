@@ -1177,3 +1177,5 @@ https://kytv.k33n26.workers.dev/sbtao.m3u8
 https://kytv.k33n26.workers.dev/tvnovo.m3u8
 #EXTINF:-1 group-title="youtube",24 Horas - TVN Chile
 https://kytv.k33n26.workers.dev/24horas.m3u8
+#EXTINF:-1 group-title="youtube",CHV Noticias
+https://kytv.k33n26.workers.dev/chvnoticias.m3u8
