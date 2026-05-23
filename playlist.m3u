@@ -1165,3 +1165,5 @@ https://kytv.k33n26.workers.dev/canaldela.m3u8
 https://kytv.k33n26.workers.dev/tvpublica.m3u8
 #EXTINF:-1 group-title="youtube",Todo Noticias
 https://kytv.k33n26.workers.dev/todonoticias.m3u8
+#EXTINF:-1 group-title="youtube",EKHON TV
+https://kytv.k33n26.workers.dev/ekhontv.m3u8
