@@ -1,3 +1,4 @@
+Nat Geo Kids,https://kytv.k33n26.workers.dev/natgeokids.m3u8
 NASA TV,https://kytv.k33n26.workers.dev/nasa1.m3u8
 EARTH TV,https://kytv.k33n26.workers.dev/earthtv.m3u8
 EURONEWS,https://kytv.k33n26.workers.dev/euronews.m3u8
@@ -50,6 +51,8 @@ Canal de la Ciudad,https://kytv.k33n26.workers.dev/canaldela.m3u8
 Televisión Pública,https://kytv.k33n26.workers.dev/tvpublica.m3u8
 Todo Noticias,https://kytv.k33n26.workers.dev/todonoticias.m3u8
 EKHON TV,https://kytv.k33n26.workers.dev/ekhontv.m3u8
+BELSAT TV,https://kytv.k33n26.workers.dev/belsat.m3u8
+
 
 
 
