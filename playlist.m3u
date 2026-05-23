@@ -1161,3 +1161,5 @@ https://kytv.k33n26.workers.dev/americatv.m3u8
 https://kytv.k33n26.workers.dev/canal13.m3u8
 #EXTINF:-1 group-title="youtube",Canal de la Ciudad
 https://kytv.k33n26.workers.dev/canaldela.m3u8
+#EXTINF:-1 group-title="youtube",Televisión Pública
+https://kytv.k33n26.workers.dev/tvpublica.m3u8
