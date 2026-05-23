@@ -44,6 +44,7 @@ Salzburg AG TV,https://kytv.k33n26.workers.dev/salzburgagtv.m3u8
 Wetter-Panorama,https://kytv.k33n26.workers.dev/wetterpanaroma.m3u8
 Lòria TV,https://kytv.k33n26.workers.dev/loriatv.m3u8
 A24 TV,https://kytv.k33n26.workers.dev/a24.m3u8
+AMÉRICA TV,https://kytv.k33n26.workers.dev/americatv.m3u8
 
 
 
