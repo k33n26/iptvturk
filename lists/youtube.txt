@@ -45,6 +45,7 @@ Wetter-Panorama,https://kytv.k33n26.workers.dev/wetterpanaroma.m3u8
 Lòria TV,https://kytv.k33n26.workers.dev/loriatv.m3u8
 A24 TV,https://kytv.k33n26.workers.dev/a24.m3u8
 AMÉRICA TV,https://kytv.k33n26.workers.dev/americatv.m3u8
+CANAL 13 SAN JUAN,https://kytv.k33n26.workers.dev/canal13.m3u8
 
 
 
