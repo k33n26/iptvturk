@@ -48,6 +48,7 @@ AMÉRICA TV,https://kytv.k33n26.workers.dev/americatv.m3u8
 CANAL 13 SAN JUAN,https://kytv.k33n26.workers.dev/canal13.m3u8
 Canal de la Ciudad,https://kytv.k33n26.workers.dev/canaldela.m3u8
 Televisión Pública,https://kytv.k33n26.workers.dev/tvpublica.m3u8
+Todo Noticias,https://kytv.k33n26.workers.dev/todonoticias.m3u8
 
 
 
