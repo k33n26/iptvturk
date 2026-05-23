@@ -40,6 +40,7 @@ DanmarkC TV,https://kytv.k33n26.workers.dev/danmarkc.m3u8
 FairON TV,https://kytv.k33n26.workers.dev/fairon.m3u8
 GemeindeTV,https://kytv.k33n26.workers.dev/gemeindetv.m3u8
 KroneTV,https://kytv.k33n26.workers.dev/kronetv.m3u8
+Salzburg AG TV,https://kytv.k33n26.workers.dev/salzburgagtv.m3u8
 
 
 
