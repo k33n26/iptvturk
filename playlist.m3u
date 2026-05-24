@@ -1193,3 +1193,5 @@ https://kytv.k33n26.workers.dev/televizef.m3u8
 https://kytv.k33n26.workers.dev/africanews.m3u8
 #EXTINF:-1 group-title="youtube",Africa News-FR
 https://kytv.k33n26.workers.dev/africanewsfr.m3u8
+#EXTINF:-1 group-title="youtube",Franceinfo
+https://kytv.k33n26.workers.dev/franceinfo.m3u8
