@@ -1211,3 +1211,5 @@ https://kytv.k33n26.workers.dev/zigsharko.m3u8
 https://kytv.k33n26.workers.dev/ctvchina.m3u8
 #EXTINF:-1 group-title="youtube",Nat Geo Animals
 https://kytv.k33n26.workers.dev/natgeoanimals.m3u8
+#EXTINF:-1 group-title="youtube",Top Gear Classic
+https://kytv.k33n26.workers.dev/topgearclassic.m3u8
