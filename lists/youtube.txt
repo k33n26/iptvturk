@@ -62,7 +62,7 @@ Caracol Televisión,https://kytv.k33n26.workers.dev/caracoltv.m3u8
 Noticias Caracol,https://kytv.k33n26.workers.dev/ncaracol.m3u8
 Televize FILMpro,https://kytv.k33n26.workers.dev/televizef.m3u8
 Africa News-EN,https://kytv.k33n26.workers.dev/africanews.m3u8
-
+Africa News-FR,https://kytv.k33n26.workers.dev/africanewsfr.m3u8
 
 
 
