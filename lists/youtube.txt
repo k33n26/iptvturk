@@ -67,6 +67,7 @@ Franceinfo,https://kytv.k33n26.workers.dev/franceinfo.m3u8
 Mosaïk Cristal,https://kytv.k33n26.workers.dev/mosaikcristal.m3u8
 Maurienne TV,https://kytv.k33n26.workers.dev/mauriennetv.m3u8
 Oggy Çizgi Film,https://kytv.k33n26.workers.dev/oggy.m3u8
+SQOOL TV,https://kytv.k33n26.workers.dev/sqooltv.m3u8
 
 
 
