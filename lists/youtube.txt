@@ -64,6 +64,7 @@ Televize FILMpro,https://kytv.k33n26.workers.dev/televizef.m3u8
 Africa News-EN,https://kytv.k33n26.workers.dev/africanews.m3u8
 Africa News-FR,https://kytv.k33n26.workers.dev/africanewsfr.m3u8
 Franceinfo,https://kytv.k33n26.workers.dev/franceinfo.m3u8
+Mosaïk Cristal,https://kytv.k33n26.workers.dev/mosaikcristal.m3u8
 
 
 
