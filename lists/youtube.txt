@@ -69,6 +69,8 @@ Maurienne TV,https://kytv.k33n26.workers.dev/mauriennetv.m3u8
 Oggy Çizgi Film,https://kytv.k33n26.workers.dev/oggy.m3u8
 SQOOL TV,https://kytv.k33n26.workers.dev/sqooltv.m3u8
 TECH & CO,https://kytv.k33n26.workers.dev/bfmtech.m3u8
+ZIG & SHARKO ÇizgiFilm,https://kytv.k33n26.workers.dev/zigsharko.m3u8
+
 
 
 
