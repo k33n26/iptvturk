@@ -1191,3 +1191,5 @@ https://kytv.k33n26.workers.dev/ncaracol.m3u8
 https://kytv.k33n26.workers.dev/televizef.m3u8
 #EXTINF:-1 group-title="youtube",Africa News-EN
 https://kytv.k33n26.workers.dev/africanews.m3u8
+#EXTINF:-1 group-title="youtube",Africa News-FR
+https://kytv.k33n26.workers.dev/africanewsfr.m3u8
