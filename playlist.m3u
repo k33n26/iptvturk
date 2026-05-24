@@ -1199,3 +1199,5 @@ https://kytv.k33n26.workers.dev/franceinfo.m3u8
 https://kytv.k33n26.workers.dev/mosaikcristal.m3u8
 #EXTINF:-1 group-title="youtube",Maurienne TV
 https://kytv.k33n26.workers.dev/mauriennetv.m3u8
+#EXTINF:-1 group-title="youtube",Oggy Çizgi Film
+https://kytv.k33n26.workers.dev/oggy.m3u8
