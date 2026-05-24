@@ -1207,3 +1207,5 @@ https://kytv.k33n26.workers.dev/sqooltv.m3u8
 https://kytv.k33n26.workers.dev/bfmtech.m3u8
 #EXTINF:-1 group-title="youtube",ZIG & SHARKO ÇizgiFilm
 https://kytv.k33n26.workers.dev/zigsharko.m3u8
+#EXTINF:-1 group-title="youtube",Wonders of China
+https://kytv.k33n26.workers.dev/ctvchina.m3u8
