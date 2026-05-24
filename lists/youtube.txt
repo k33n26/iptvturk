@@ -71,6 +71,7 @@ SQOOL TV,https://kytv.k33n26.workers.dev/sqooltv.m3u8
 TECH & CO,https://kytv.k33n26.workers.dev/bfmtech.m3u8
 ZIG & SHARKO ÇizgiFilm,https://kytv.k33n26.workers.dev/zigsharko.m3u8
 Wonders of China,https://kytv.k33n26.workers.dev/ctvchina.m3u8
+Nat Geo Animals,https://kytv.k33n26.workers.dev/natgeoanimals.m3u8
 
 
 
