@@ -1235,3 +1235,5 @@ https://kytv.k33n26.workers.dev/lovenature.m3u8
 https://kytv.k33n26.workers.dev/bbctime.m3u8
 #EXTINF:-1 group-title="youtube",Odyssey-Ancient History Docu
 https://kytv.k33n26.workers.dev/odyssey.m3u8
+#EXTINF:-1 group-title="youtube",Unearthed History-Archaeology Docu
+https://kytv.k33n26.workers.dev/arkeo.m3u8
