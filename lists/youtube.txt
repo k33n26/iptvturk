@@ -87,6 +87,7 @@ Odyssey-Ancient History Docu,https://kytv.k33n26.workers.dev/odyssey.m3u8
 Unearthed History-Archaeology Docu,https://kytv.k33n26.workers.dev/arkeo.m3u8
 WW2 In Colour,https://kytv.k33n26.workers.dev/ww2.m3u8
 THE ANCIENT WORLD,https://kytv.k33n26.workers.dev/ancient.m3u8
+Ancient History,https://kytv.k33n26.workers.dev/ancient2.m3u8
 
 
 
