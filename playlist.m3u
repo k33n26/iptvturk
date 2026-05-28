@@ -1227,3 +1227,5 @@ https://kytv.k33n26.workers.dev/natgeo1.m3u8
 https://kytv.k33n26.workers.dev/natgeo2.m3u8
 #EXTINF:-1 group-title="youtube",Nature Documentaries
 https://kytv.k33n26.workers.dev/natdocu.m3u8
+#EXTINF:-1 group-title="youtube",Love Nature: Predators
+https://kytv.k33n26.workers.dev/lovenatpre.m3u8
