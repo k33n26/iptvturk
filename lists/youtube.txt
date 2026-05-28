@@ -82,6 +82,7 @@ National Geographic-2,https://kytv.k33n26.workers.dev/natgeo2.m3u8
 Nature Documentaries,https://kytv.k33n26.workers.dev/natdocu.m3u8
 Love Nature: Predators,https://kytv.k33n26.workers.dev/lovenatpre.m3u8
 Love Nature,https://kytv.k33n26.workers.dev/lovenature.m3u8
+BBC Timestamp,https://kytv.k33n26.workers.dev/bbctime.m3u8
 
 
 
