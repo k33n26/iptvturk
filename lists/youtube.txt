@@ -74,6 +74,7 @@ Wonders of China,https://kytv.k33n26.workers.dev/ctvchina.m3u8
 Nat Geo Animals,https://kytv.k33n26.workers.dev/natgeoanimals.m3u8
 Top Gear Classic,https://kytv.k33n26.workers.dev/topgearclassic.m3u8
 Sapiens TV,https://kytv.k33n26.workers.dev/sapienstv.m3u8
+Absolute History,https://kytv.k33n26.workers.dev/abhistory.m3u8
 
 
 
