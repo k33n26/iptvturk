@@ -1231,3 +1231,5 @@ https://kytv.k33n26.workers.dev/natdocu.m3u8
 https://kytv.k33n26.workers.dev/lovenatpre.m3u8
 #EXTINF:-1 group-title="youtube",Love Nature
 https://kytv.k33n26.workers.dev/lovenature.m3u8
+#EXTINF:-1 group-title="youtube",BBC Timestamp
+https://kytv.k33n26.workers.dev/bbctime.m3u8
