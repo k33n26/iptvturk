@@ -76,6 +76,7 @@ Top Gear Classic,https://kytv.k33n26.workers.dev/topgearclassic.m3u8
 Sapiens TV,https://kytv.k33n26.workers.dev/sapienstv.m3u8
 Absolute History,https://kytv.k33n26.workers.dev/abhistory.m3u8
 BBC Earth,https://kytv.k33n26.workers.dev/bbcearth.m3u8
+BBC Earth Science,https://kytv.k33n26.workers.dev/bbcscience.m3u8
 
 
 
