@@ -1245,3 +1245,5 @@ https://kytv.k33n26.workers.dev/ancient.m3u8
 https://kytv.k33n26.workers.dev/ancient2.m3u8
 #EXTINF:-1 group-title="youtube",End Of The War In Color
 https://kytv.k33n26.workers.dev/ww2end.m3u8
+#EXTINF:-1 group-title="youtube",Discovery
+https://kytv.k33n26.workers.dev/disco.m3u8
