@@ -1219,3 +1219,5 @@ https://kytv.k33n26.workers.dev/sapienstv.m3u8
 https://kytv.k33n26.workers.dev/abhistory.m3u8
 #EXTINF:-1 group-title="youtube",BBC Earth
 https://kytv.k33n26.workers.dev/bbcearth.m3u8
+#EXTINF:-1 group-title="youtube",BBC Earth Science
+https://kytv.k33n26.workers.dev/bbcscience.m3u8
