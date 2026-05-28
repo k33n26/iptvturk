@@ -1221,3 +1221,7 @@ https://kytv.k33n26.workers.dev/abhistory.m3u8
 https://kytv.k33n26.workers.dev/bbcearth.m3u8
 #EXTINF:-1 group-title="youtube",BBC Earth Science
 https://kytv.k33n26.workers.dev/bbcscience.m3u8
+#EXTINF:-1 group-title="youtube",National Geographic-1
+https://kytv.k33n26.workers.dev/natgeo1.m3u8
+#EXTINF:-1 group-title="youtube",National Geographic-2
+https://kytv.k33n26.workers.dev/natgeo2.m3u8
