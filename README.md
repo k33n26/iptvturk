@@ -4,7 +4,7 @@
 https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
 
 <!-- STATS-START -->
-- 📺 **youtube**: 90 kanal
+- 📺 **youtube**: 91 kanal
 - 📺 **yerel**: 87 kanal
 - 📺 **sinema dizi**: 82 kanal
 - 📺 **dinlenme**: 78 kanal
@@ -19,6 +19,6 @@ https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
 - 📺 **avrupa**: 10 kanal
 - 📺 **kibris tv**: 7 kanal
 
-Güncelleme: `2026-05-28 08:06:09 (TR)`
-Toplam Kanal: **622**
+Güncelleme: `2026-05-28 08:07:53 (TR)`
+Toplam Kanal: **623**
 <!-- STATS-END -->
