@@ -1217,3 +1217,5 @@ https://kytv.k33n26.workers.dev/topgearclassic.m3u8
 https://kytv.k33n26.workers.dev/sapienstv.m3u8
 #EXTINF:-1 group-title="youtube",Absolute History
 https://kytv.k33n26.workers.dev/abhistory.m3u8
+#EXTINF:-1 group-title="youtube",BBC Earth
+https://kytv.k33n26.workers.dev/bbcearth.m3u8
