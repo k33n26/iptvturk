@@ -589,7 +589,9 @@ https://kytv.k33n26.workers.dev/ayakasi.m3u8
 https://kytv.k33n26.workers.dev/yalandunya.m3u8
 #EXTINF:-1 group-title="sinema dizi",EN SON BABALAR DUYAR(k33n26)
 https://kytv.k33n26.workers.dev/ensonbaba.m3u8
-#EXTINF:-1 group-title="sinema dizi",Taff Pictures
+#EXTINF:-1 group-title="sinema dizi",Çocuklar Duymasın(k33n26)
+https://kytv.k33n26.workers.dev/cocukd.m3u8
+#EXTINF:-1 group-title="sinema dizi",Taff Pictures(k33n26)
 https://kytv.k33n26.workers.dev/taff.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
