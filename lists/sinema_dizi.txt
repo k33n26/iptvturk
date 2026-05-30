@@ -25,6 +25,7 @@ Behzat Ç(k33n26),https://kytv.k33n26.workers.dev/behzat.m3u8
 Avrupa Yakası(k33n26),https://kytv.k33n26.workers.dev/ayakasi.m3u8
 YALAN DÜNYA(k33n26),https://kytv.k33n26.workers.dev/yalandunya.m3u8
 EN SON BABALAR DUYAR(k33n26),https://kytv.k33n26.workers.dev/ensonbaba.m3u8
+Taff Pictures,https://kytv.k33n26.workers.dev/taff.m3u8
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 KEMAL SUNAL,http://87.121.104.29:1071/kemalsunal/stream.m3u8
 GULSAH FILM,http://87.121.104.29:1071/gulsahfilm/stream.m3u8
@@ -81,4 +82,3 @@ Bein-Box-Office-3-tr,http://65.108.239.207/box3/index.m3u8
 Bein-Stars-tr,http://65.108.239.207/bsstars/index.m3u8
 KuzeyMax,http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 SARTV MAX,https://boncuktvv.siringa-yetmedi.workers.dev/best4k
-
