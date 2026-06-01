@@ -609,6 +609,8 @@ https://kytv.k33n26.workers.dev/arkas.m3u8
 https://kytv.k33n26.workers.dev/savasci.m3u8
 #EXTINF:-1 group-title="sinema dizi",Sokağın Çocukları(k33n26)
 https://kytv.k33n26.workers.dev/sokak.m3u8
+#EXTINF:-1 group-title="sinema dizi",Selena(k33n26)
+https://kytv.k33n26.workers.dev/selena.m3u8
 #EXTINF:-1 group-title="sinema dizi",Taff Pictures(k33n26)
 https://kytv.k33n26.workers.dev/taff.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
