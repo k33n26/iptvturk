@@ -605,6 +605,8 @@ https://kytv.k33n26.workers.dev/kiskanmak.m3u8
 https://kytv.k33n26.workers.dev/hayats.m3u8
 #EXTINF:-1 group-title="sinema dizi",Arka Sıradakiler(k33n26)
 https://kytv.k33n26.workers.dev/arkas.m3u8
+#EXTINF:-1 group-title="sinema dizi",Savaşçı(k33n26)
+https://kytv.k33n26.workers.dev/savasci.m3u8
 #EXTINF:-1 group-title="sinema dizi",Taff Pictures(k33n26)
 https://kytv.k33n26.workers.dev/taff.m3u8
 #EXTINF:-1 group-title="sinema dizi",SUPERTURK-TV
