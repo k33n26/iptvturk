@@ -19,6 +19,7 @@ Leyla ile Mecnun(k33n26),https://kytv.k33n26.workers.dev/leylamecnun.m3u8
 Yedi Numara(k33n26),https://kytv.k33n26.workers.dev/yedinumara.m3u8
 Adanalı(k33n26),https://kytv.k33n26.workers.dev/adanali.m3u8
 Emret Komutanım(k33n26),https://kytv.k33n26.workers.dev/emret.m3u8
+Çukur(k33n26),https://kytv.k33n26.workers.dev/cukur.m3u8
 Kurtlar Vadisi(k33n26),https://kytv.k33n26.workers.dev/kurt.m3u8
 Kurtlar Vadisi Pusu(k33n26),https://kytv.k33n26.workers.dev/kurtpusu.m3u8
 Behzat Ç(k33n26),https://kytv.k33n26.workers.dev/behzat.m3u8
