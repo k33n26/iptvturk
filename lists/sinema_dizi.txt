@@ -35,6 +35,7 @@ Hayat Şarkısı(k33n26),https://kytv.k33n26.workers.dev/hayats.m3u8
 Arka Sıradakiler(k33n26),https://kytv.k33n26.workers.dev/arkas.m3u8
 Savaşçı(k33n26),https://kytv.k33n26.workers.dev/savasci.m3u8
 Sokağın Çocukları(k33n26),https://kytv.k33n26.workers.dev/sokak.m3u8
+Selena(k33n26),https://kytv.k33n26.workers.dev/selena.m3u8
 Taff Pictures(k33n26),https://kytv.k33n26.workers.dev/taff.m3u8
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 KEMAL SUNAL,http://87.121.104.29:1071/kemalsunal/stream.m3u8
