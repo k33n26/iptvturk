@@ -25,6 +25,10 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 group-title="belgesel",NAT-GEO-WILD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 group-title="belgesel",Habitat TV
+http://cdn.vizitv.workers.dev/129.m3u8
+#EXTINF:-1 group-title="belgesel",Belgese TV
+http://cdn.vizitv.workers.dev/96.m3u8
 #EXTINF:-1 group-title="belgesel",NATURE TIME(k33n26)
 https://kytv.k33n26.workers.dev/nature.m3u8
 #EXTINF:-1 group-title="belgesel",TLC SUÇ ve ARAŞTIRMA(k33n26)
