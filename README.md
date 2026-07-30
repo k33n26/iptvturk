@@ -19,6 +19,6 @@ https://cdn.jsdelivr.net/gh/k33n26/iptvturk@latest/playlist.m3u
 - 📺 **avrupa**: 10 kanal
 - 📺 **kibris tv**: 7 kanal
 
-Güncelleme: `2026-07-30 11:35:49 (TR)`
+Güncelleme: `2026-07-30 17:15:30 (TR)`
 Toplam Kanal: **643**
 <!-- STATS-END -->
