@@ -47,6 +47,7 @@ Zübük,http://movie.okru.workers.dev/?ID=8449721510223
 Çiçek.Abbas,http://movie.okru.workers.dev/?ID=8491757545807
 Limonata,http://movie.okru.workers.dev/?ID=8906810992975
 Cinayet.Süsü,http://movie.okru.workers.dev/?ID=8925147244879
+Selamsız.Bandosu,https://vidmody.com/vs/tt0313573
 Selamsız.Bandosu,http://movie.okru.workers.dev/?ID=8929556703567
 Banker.Bilo,http://movie.okru.workers.dev/?ID=8932107626831
 Vizontele,http://movie.okru.workers.dev/?ID=7976006789455
