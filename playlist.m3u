@@ -9,8 +9,6 @@ http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 #EXTINF:-1 group-title="avrupa",SHOW MAX
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
-#EXTINF:-1 group-title="avrupa",SHOW MAX(k33n26)
-https://kytv.k33n26.workers.dev/showmax.m3u8
 #EXTINF:-1 group-title="avrupa",SHOW TURK
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 #EXTINF:-1 group-title="avrupa",ATV AVRUPA
