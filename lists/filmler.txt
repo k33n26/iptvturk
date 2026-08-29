@@ -9,6 +9,7 @@ Kolpacino.1,https://vidmody.com/mm/tt1523486/main/index.m3u8
 Kolpacino.2,https://vidmody.com/mm/tt1862472/main/index.m3u8
 Kolpacino.3,https://vidmody.com/mm/tt5505316/main/index.m3u8
 Kolpacino.4,https://vidmody.com/mm/tt29454492/main/index.m3u8
+3 IDIOTS,https://vidmody.com/vs/tt1187043
 3 IDIOT,https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/3-idiots-hd-film-izle
 Hokkabaz,https://vidmody.com/vs/tt0827503
 Hokkabaz(2),http://movie.okru.workers.dev/?ID=8334988028239
