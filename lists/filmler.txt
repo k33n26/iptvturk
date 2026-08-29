@@ -49,6 +49,8 @@ Kardeşler Araştırma,https://vidmody.com/vs/tt40656390
 Esaretin Bedeli,https://vidmody.com/vs/tt0111161
 Değirmen,https://vidmody.com/vs/tt0263257
 Namuslu,https://vidmody.com/vs/tt0263776
+Davacı,https://vidmody.com/vs/tt0252360
+Kiracı,https://vidmody.com/vs/tt0252602
 
 
 
