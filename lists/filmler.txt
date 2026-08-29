@@ -33,7 +33,8 @@ Organize.İşler.Sazan.Sarmalı,https://vidmody.com/vs/tt8442644
 Organize.İşler.Sazan.Sarmalı(2),http://movie.okru.workers.dev/?ID=8867336890703
 Pardon,https://vidmody.com/vs/tt0425333
 Pardon(2),http://movie.okru.workers.dev/?ID=8333498526031
-Toz.Ruhu,https://vidrame.pro/vr/get/36b3bc83/master.m3u8
+Toz.Ruhu,https://vidmody.com/vs/tt4456036
+Toz.Ruhu(2),https://vidrame.pro/vr/get/36b3bc83/master.m3u8
 Ölümlü.Dünya,https://vidmody.com/vs/tt7748244
 Öümlü.Dünya.2,https://vidmody.com/vs/tt27933364
 Sarı.Mersedes,https://vidmody.com/vs/tt0200637
