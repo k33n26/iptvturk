@@ -10,9 +10,7 @@ Kolpacino.2,https://vidmody.com/mm/tt1862472/main/index.m3u8
 Kolpacino.3,https://vidmody.com/mm/tt5505316/main/index.m3u8
 Kolpacino.4,https://vidmody.com/mm/tt29454492/main/index.m3u8
 3 IDIOTS,https://vidmody.com/vs/tt1187043
-3 IDIOT,https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/3-idiots-hd-film-izle
 Hokkabaz,https://vidmody.com/vs/tt0827503
-Hokkabaz(2),http://movie.okru.workers.dev/?ID=8334988028239
 A.R.O.G,https://vidmody.com/vs/tt1286126
 Ali.Baba.Ve.7.Cuceler,https://vidmody.com/vs/tt4728338
 Arif.V.216,https://vidmody.com/vs/tt6697582
@@ -31,26 +29,21 @@ Yahsi.Batı,https://vidmody.com/vs/tt1567448
 Neşeli.Hayat,https://vidmody.com/vs/tt1523515
 Organize.İşler,https://vidmody.com/vs/tt0470883
 Organize.İşler.Sazan.Sarmalı,https://vidmody.com/vs/tt8442644
-Organize.İşler.Sazan.Sarmalı(2),http://movie.okru.workers.dev/?ID=8867336890703
 Pardon,https://vidmody.com/vs/tt0425333
-Pardon(2),http://movie.okru.workers.dev/?ID=8333498526031
 Toz.Ruhu,https://vidmody.com/vs/tt4456036
-Toz.Ruhu(2),https://vidrame.pro/vr/get/36b3bc83/master.m3u8
 Ölümlü.Dünya,https://vidmody.com/vs/tt7748244
 Öümlü.Dünya.2,https://vidmody.com/vs/tt27933364
 Sarı.Mersedes,https://vidmody.com/vs/tt0200637
-Züğürt.Ağa,https://mp4.movie-yt.workers.dev/?ID=Stc2HE-RKTg
-Züğürt.Ağa(2),http://movie.okru.workers.dev/?ID=6431635482937
-Züğürt.Ağa.1080p,http://movie.okru.workers.dev/?ID=7975846750543
-Muhsin.Bey,http://movie.okru.workers.dev/?ID=8352865921359
-Yoksul,http://movie.okru.workers.dev/?ID=8295538829647
-Zübük,http://movie.okru.workers.dev/?ID=8449721510223
-Çiçek.Abbas,http://movie.okru.workers.dev/?ID=8491757545807
-Limonata,http://movie.okru.workers.dev/?ID=8906810992975
-Cinayet.Süsü,http://movie.okru.workers.dev/?ID=8925147244879
+Züğürt.Ağa,https://oktvru.k33n26.workers.dev/7172579527222.mp4
+Muhsin.Bey,https://oktvru.k33n26.workers.dev/7171877505740.mp4
+Yoksul,https://oktvru.k33n26.workers.dev/8295538829647.mp4
+Zübük,https://oktvru.k33n26.workers.dev/8449721510223.mp4
+Çiçek.Abbas,https://oktvru.k33n26.workers.dev/8491757545807.mp4
+Limonata,https://oktvru.k33n26.workers.dev/8906810992975.mp4
+Cinayet.Süsü,https://oktvru.k33n26.workers.dev/8925147244879.mp4
 Selamsız.Bandosu,https://vidmody.com/vs/tt0313573
-Banker.Bilo,http://movie.okru.workers.dev/?ID=8932107626831
-Vizontele,http://movie.okru.workers.dev/?ID=7976006789455
+Banker.Bilo,https://oktvru.k33n26.workers.dev/8932107626831.mp4
+Vizontele,https://oktvru.k33n26.workers.dev/7976006789455.mp4
 Hükümet Kadın 2,https://vidmody.com/vs/tt3283718
 Kardeşler Araştırma,https://vidmody.com/vs/tt40656390
 Esaretin Bedeli,https://vidmody.com/vs/tt0111161
